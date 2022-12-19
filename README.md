@@ -13,7 +13,9 @@ For more information, please contact the project leader Sonja Aits (sonja.aits [
 
 ## Data release history
 2022-12-19
+
 OpenChart-SE corpus, version 1
+
 50 records
 
 
