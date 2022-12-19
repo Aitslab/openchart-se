@@ -1,0 +1,35 @@
+id: 24
+sokorsak: Feber
+kon: K
+alder: 22
+socialt: Studerar till SSK.
+tidigare_sjukdomar: Heterocygot för APC-resistens. Frisk och medicinfri.
+aktuellt: Sedan igår kväll hög feber och frossa. Temp upp emot 40 grader. Idag tilltagande ryggsmärta, mest vänster. Ingen kräkning eller illamående. Kunnat äta och dricka. Förnekar hosta. Ingen sveda vid miktion. Normal avföring. Ingen sjuk i omgivning.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Febril
+hjarta: Regelbunden rytm
+lungor: Normalt, inga biljud
+buk: Mjuk och oöm. Rucköm vänster njurloge
+sbp: 110
+dbp: 70
+sat: 98
+puls: 87
+temp: 39
+af: 18
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Vita 17. CRP 108. Krea ua. U-sticka 3+ vita, 1+ protein, 1+ blod, pos nitur.
+ekg: NULL
+bedomning: Sannolikt vänstersidig pyelonefrit. Blod- och urinodlad. Ter sig relativt opåverkad. Erhåller 2 g Cefotaxim iv och går sedan hem med recept Ciprofloxacin. Telefonbesked vid odlingssvar som ej täcker givet antibiotika. Remiss VC för kontrollodling 2 v efter avslutad antibiotikakur.
+planering: NULL
+huvuddiagnos_001: N10.9 Akut tubulo-interstitiell nefrit
+_validation_status: validation_status_approved

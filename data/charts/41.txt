@@ -1,0 +1,35 @@
+id: 41
+sokorsak: Infektion
+kon: M
+alder: 78
+socialt: Bor på SÄBO.
+tidigare_sjukdomar: Eliquisbehandlat FF. Hypertoni. DM2. Stroke okt 2021 med högersidig hemipares, afasi samt sväljsvårigheter. Aspirerat x flera, senast vårdad inneliggande för detta i feb 2022. Diskussion avseende PEG förs, ännu inget beslut.
+aktuellt: Inkommer med ambulans från boendet. Sedan morgonen successiv försämring. Hög feber och andningsfrekvens. Hosta i samband med måltid igår kväll som vanligt, ev aspirerat. Covid-vaccinerad x 3. Ingen influensa eller covid på boendet vad man vet.
+hereditet: NULL
+rokning: NULL
+larm: ja
+allmantillstand: NULL
+hjarta: NULL
+lungor: NULL
+buk: NULL
+sbp: NULL
+dbp: NULL
+sat: NULL
+puls: NULL
+temp: NULL
+af: NULL
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: En del sekret i luftvägar som rensuges, därefter bättre ljud. Munhåla fri. Inga tecken till trauma.
+B: Sekretbiljud från övre luftvägar. Krepitationer basalt hö. Sat 86% luft, stiger till 94% på 5 liter syrgas på oxymask. AF 24.
+C: Frekvens 110 oregelbundet. Palpabla pulsar femoralis och radialis bilat. BT 100/60. Mjuk buk. Varm och torr hudkostym.
+D: Hemipares som tidigare. RLS 2. Tittar upp på verbal uppmaning. Pupiller ua.
+E: Temp 39. Inga perifera ödem.
+lab: Blodgas med laktat 4,2. I övrigt väs ua. Vita-PCR neg för covid och influensa.
+ekg: Förmaksflimmer frekvens 113 utan tecken till akut ischemi.
+bedomning: Aspirationspneumoni ånyo. Genomodlas blod, urin och NPH. Covid + influensa neg. Cefo 2 g på akutrummet. Inläggning Infavd 2 för vidare vård och härifrån beställer man rtg och beslutar om vilket antibiotika man vill att pat har efter detta. Infjour dr Månsson på plats. Ringer pats hustru och informerar om det inträffade. Önskar att bli uppringd vid försämring.
+planering: NULL
+huvuddiagnos_001: J18.9 Pneumoni
+_validation_status: validation_status_approved

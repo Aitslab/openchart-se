@@ -1,0 +1,35 @@
+id: 49
+sokorsak: Infektion
+kon: K
+alder: 94
+socialt: Ensamboende, änka sedan 18 år tillbaka. Bor i lägenhet med hiss. Ingen SAH. Dotter som hjälper till ofta. Klarar sig helt själv.
+tidigare_sjukdomar: Äter trombyl på lite oklar indikation de senaste 50 åren. Tar en tablett för humöret och sömnen till natten, oklart vilken.
+aktuellt: Känt sig frusen under gårdagen, idag när hon vaknade på morgonen kräkts en gång och varit mycket svag och haft svårt att stå på benen. Ej fallit. Känt sig febrig. Inte haft någon hosta, inga kräkningar eller diareer eller buksmärta. Mikton utan smärta, ingen känsla av att behöva kissa ofta. Ingen huvudvärk. Ringt dottern som har hjälpt henne till akutmottagningen.
+hereditet: Okänt
+rokning: Aldrig
+larm: nej
+allmantillstand: Trött och tagen, men vid gott mod, helt klar.
+hjarta: Normofrekvent regelbunden rytm, hörbart systoliskt blåsljud.
+lungor: Vesikulära adningsljud bilateralt.
+buk: Sammanfallen, överallt mjuk och oöm.
+sbp: 188
+dbp: 74
+sat: 95
+puls: 95
+temp: 38
+af: 26
+lokalstatus: Höger underben: Rodnat och värmeökat från fotryggen och upp över underbenet, skarp avgränsning. Ingen pain out of proporsion. Vänster under ben:  Smalt gracilt.
+oron: NULL
+mos: Oretat
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: CRP 55 LPK 17, venös blodgas ua.
+ekg: NULL
+bedomning: Erysipelas hos ensaboende 94 årig dam. Ej septisk, men medtagen av infektionen. Genomodlas.
+planering: Inlägges valfri medicin, insättes på i.v benzyl PC, kontroller enligt NEWS.
+huvuddiagnos_001: A469
+_validation_status: validation_status_approved

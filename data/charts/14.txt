@@ -1,0 +1,35 @@
+id: 14
+sokorsak: Dyspné
+kon: M
+alder: 59
+socialt: Gift. Arbetar i bygghandel.
+tidigare_sjukdomar: Förmaksflimmer med warfarinbehandling. Hypertoni. UKG 2019 med normal LVEF men hypertrof vänsterkammare. Haft besvär med svullna underben och fått vätskedrivande behandling. Covid-19 i januari i år.
+aktuellt: Sedan 4-5 dagar dyspné vid ansträngning. Blir andfådd efter 200-300 m promenad. Brukar normalt kunna gå kilometerlånga sträckor utan besvär. Förra veckan lite lättare luftvägsbesvär med snuva och hosta. Ingen feber. Ingen bröstsmärta. Ingen utstrålning. Inga symtom från andra organsystem. Pat vet inte om han gått upp i vikt senaste tiden. Kommer på remiss från vårdcentral med frågeställning pneumoni eller lungemboli.
+hereditet: NULL
+rokning: Röker e-cigaretter.
+larm: nej
+allmantillstand: Gott och opåverkat i vila.
+hjarta: Oregelbunden rytm. Inga hörbara bi- eller blåsljud.
+lungor: Normala andningsljud bilateralt.
+buk: NULL
+sbp: 160
+dbp: 80
+sat: 98
+puls: 95
+temp: 37
+af: 18
+lokalstatus: Underben: Pittingödem bilateralt. Ingen rodnad.
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Venös blodgas normal. CRP och blodstatus utan anmärkning.
+ekg: Förmaksflimmer med frekvens 90. Inget ischemiskt.
+bedomning: Pat med ansträningsutlöst dyspné sedan några dagar. Ingen misstanke om pneumoni, lungemboli eller kardiell ischemi. Inget som kräver akut åtgärd. Pat har riskfaktorer för att utveckla hjärtsvikt vilken skulle kunna ha förvärrats av nyligen genomgången luftvägsinfektion. Jag sätter idag in pat på furosemid vilket pat kan testa i några dagar. Efterbeställer även ett nt-proBNP och rekommenderar inremitterande läkare på vårdcentralen att beställa ett nytt UKG om detta skulle vara förhöjt.
+planering: NULL
+huvuddiagnos_001: R060 Dyspné
+_validation_status: validation_status_approved

@@ -1,0 +1,35 @@
+id: 6
+sokorsak: Dyspné
+kon: K
+alder: 77
+socialt: Ensamboende utan SHT
+tidigare_sjukdomar: Hypertoni. KOL. Tidigare hjärtinfarkt. Hjärtsvikt.
+aktuellt: Tilltagande dyspné senaste veckan som akutiserats idag. Tidigare endast aktivitetsrelaterade symtom, men nu även besvär i vila. Ökad hosta. Ej ökad sputa. Ej feber. Förnekar bröstsmärta.
+hereditet: NULL
+rokning: Slutade för 10 år sedan i samband med hjärtinfarkt.
+larm: nej
+allmantillstand: Lätt vilodyspné. Afebril.
+hjarta: Regelbunden rytm utan hörbara bi- eller blåsljud.
+lungor: Bilat något obstruktiv och generellt dämpat såsom vid KOL.
+buk: NULL
+sbp: 158
+dbp: 92
+sat: 93
+puls: 88
+temp: 36
+af: 20
+lokalstatus: Inga perifera ödem
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb, vita, CRP ua. TnI lätt förhöjt såsom tidigare utan dynamik.
+ekg: Inferior Q-våg såsom tidigare. Inga tecken till akut ischemi.
+bedomning: Lätt obstruktiv och får inhalera. Ultraljud bedside visar 4 cm pleuravätska höger och 3 cm vänster. Sannolikt sviktrelaterat. Senaste EKO 2018. Inlägges medicinavdelning. Furix iv. Optimering hjärtsvikt. Maxdryck 1500 ml. Daglig vikt.
+planering: NULL
+huvuddiagnos_001: I50.9
+_validation_status: validation_status_approved

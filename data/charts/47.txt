@@ -1,0 +1,35 @@
+id: 47
+sokorsak: Cirkulationsstillestand
+kon: M
+alder: 72
+socialt: Bor tillsammans med hustru.
+tidigare_sjukdomar: Enligt melior tabh hypertoni, men väldigt få kontakter.
+aktuellt: Enligt ambulansrapport börjat må illa och blivit yr, sedan satt sig i en fåtölj i vardagsrummet. Efter några minuter förlorar han medvetandet och hustrun får inte kontakt med honom. Hustrun omgående startat bystander HLR efter alarmoperatörs instruktioner. Ambulans på plats ca 10 minuter efter stoppet, första rytm VF, deffad * 2, sedan långsam PEA, bärande rytm i carotis efter 1 omgång adrenalin men ej vaknat. Tid från hjärtstopp till första ROSC 27 minuter. Ånyo VF i ambulansen deffad * 1, pågående LUCAS.
+hereditet: NULL
+rokning: NULL
+larm: ja
+allmantillstand: NULL
+hjarta: NULL
+lungor: NULL
+buk: NULL
+sbp: NULL
+dbp: NULL
+sat: NULL
+puls: NULL
+temp: NULL
+af: NULL
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: Larynxmask, tolererar denna, lättventilerad. Intuberas komplikationsfritt.
+B: Andningsljud apikalt bilat, trachea i mittlinjen.
+C: Under pågående Lucas pulsar i radialas, femoralis bilat och carotis. Kall och blå perifert.
+D: Stora pupiller som ej reagerar på ljus. RLS 8.
+E: Inga tecken till trauma över huvud eller kropp, ingen rektal blödning, ingen blödning i vsond.
+lab: Venös blodgas med Ph 6,9, pCO2 2,3, BE -28, laktat 18, K 5.7, Na 144, Hb 132
+ekg: EKG vid bärande rytm visar sinusrytm med AV-block III, inferolaterala ST höjningar.
+bedomning: ROSC efter första defiblirering på akutrummet, dock bradykard på 28 med svaga pulsar i carotis. Erhåller stötdoser spätt adrenalin, buffras med 2 tribonat. EKG bild som inferior STEMI med AV-blockering och misstänkt HK påverkan, svarar bra på stötdos vätska. Erhåller artärnål och med försiktig dos NA + dobutamin håller map på över 50. Kontakt tas med Lund för urakut PCI, accepteras och transporteras ambulans prio 1 för akut PCI. Narkossköterska medföljer i ambulans.
+planering: NULL
+huvuddiagnos_001: I211
+_validation_status: validation_status_approved

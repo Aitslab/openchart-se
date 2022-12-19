@@ -1,0 +1,35 @@
+id: 30
+sokorsak: Dyspné
+kon: M
+alder: 76
+socialt: Särbo. Golfintresserad.
+tidigare_sjukdomar: Tablettbehandlad hypertoni. Inhalationsbehandlad KOL. Hjärtinfarkt med PCI mot LAD 2004.
+aktuellt: Inkommer med ambulans. Sedan igår kväll tilltagande dyspné som akutiserats nu på morgonen. Förnekar bröstsmärta. Ingen hosta eller andra infektionssymtom. Tilltagande vilodyspné. Vid ambulans ankomst sat 77% som nu stigit till 88% på 10 liter syrgas.
+hereditet: NULL
+rokning: Tidigare rökare
+larm: ja
+allmantillstand: NULL
+hjarta: NULL
+lungor: NULL
+buk: NULL
+sbp: NULL
+dbp: NULL
+sat: NULL
+puls: NULL
+temp: NULL
+af: NULL
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: Inget tecken till trauma. Fri munhåla. Normala andningsljud.
+B: Lindrigt obstruktiv. Bilat rassel. Sat 84% på 10 liter på oxymask. AF 38.
+C: BT 190/100. Palpabla fylliga pulsar bilat radialis. Något blek hudkostym. Kall.
+D: RLS 2. Trött. PEARL. Normala sensomotorik i extremiteter.
+E: Temp 36,1. Inga perifera ödem.
+lab: Artärblodgas med pH 7,32. pCO2 7,8. pO2 7,2. Sat 82%.
+ekg: Sinusrytm frekvens 77 med lätt pressat inferiolateralt utan signifikanta sänkningar.
+bedomning: Resp insuff. Inhalerar Sapimol pga lätt obstruktivitet. Ingen akut retentionsbild. Ultraljud bedside visar uttalade B-lines generellt. Lungödem. Nitropuffar  upprepat totalt x 4. CPAP på luft med 6cmH2O samt tillsatt syrgas som titreras till sat 88% ger lugnare andning och piggare patient. Inlägges IMA för fortsatt CPAP och övrig lungödembehandling. TnT-serie.
+planering: NULL
+huvuddiagnos_001: J81.9 Lungödem
+_validation_status: validation_status_approved

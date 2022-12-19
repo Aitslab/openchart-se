@@ -1,0 +1,35 @@
+id: 46
+sokorsak: Extremitetsskada
+kon: K
+alder: 23
+socialt: Pluggar på malmö högskola till socionom.
+tidigare_sjukdomar: DM1, insulinpump.
+aktuellt: Igår varit ute på lilla torg, åkte ner för en ledstång och landade hårt på vänster fot i supinerat läge. Omedelbart smärta, kunde inte stödja. Lindade och satte i högläge. Tilltagande smärtor, kan ej belasta och söker därav nu. Inga andra skador
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Gott och opåverkad
+hjarta: NULL
+lungor: NULL
+buk: NULL
+sbp: NULL
+dbp: NULL
+sat: NULL
+puls: NULL
+temp: NULL
+af: NULL
+lokalstatus: Höger fot: Normalt distalstatus. Ordentligt svullen över laterala malleolen, främst smärta över ledbanden. Inget status medialt men väl anteriort över fotleden. Stabil fotled ingen smärta i proximala femur.
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: NULL
+ekg: NULL
+bedomning: Röntgen visar ingen fraktur. Bedöms som fotledsdistrotion, erhåller tubigrip och remiss till sjukgymnast. Åter vid behov.
+planering: NULL
+huvuddiagnos_001: S934
+_validation_status: validation_status_approved

@@ -1,0 +1,35 @@
+id: 29
+sokorsak: Medvetslas
+kon: K
+alder: 78
+socialt: Aktiv pensionär. Bor med make.
+tidigare_sjukdomar: Hypertoni. Lindrig KOL.
+aktuellt: Inkommer med ambulans. Mått väl under dagen. Vid 19.30 nu på kvällen klagat över plötslig svår huvudvärk och därefter blivit yr, kräks och blir därefter slö enligt maken. Vid ambulans ankomst RLS 3 och sittande i soffa. I ambulans fri luftväg, normalt glukos och vitala parametrar.
+hereditet: -
+rokning: Slutat 10 år sedan.
+larm: ja
+allmantillstand: NULL
+hjarta: NULL
+lungor: NULL
+buk: NULL
+sbp: NULL
+dbp: NULL
+sat: NULL
+puls: NULL
+temp: NULL
+af: NULL
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: Inga tecken till trauma mot huvud, nacke hals. Munhåla fri. Snarkande andning. Avhjälpes med käklyft. Larmar anestesi.
+B: Normala andningsljud bilateralt. AF 12. Sat 99% på luft. Kopplar 10 liter syrgas på oxymask.
+C: Varm hudkostym. Fina radialis- och femoralispulsar bilat. BT 190/100. Puls 77.
+D: RLS 4. Lokaliserar. Ingen sidoskillnad. Undandragande i alla extremiteter. Pupiller något slöa men sidlika.
+E: Temp 36,2. Kroppens framsida och baksida ua.
+lab: Venös blodgas väsentligen normal.
+ekg: Sinusrytm utan belastningstecken.
+bedomning: Misstänkt blödning/ischemi. Medvetslös och intuberas på akutrummet av anestesi. CT hjärna med stor SAH. Angio med aneurysm vä media. Kontakt med NK som önskar ta över patienten. Sekundärtransport till NK Lund. IVA-ssk medföljer i transport. Systoliskt blodtrycksmål <160mmHg. Trandate vb.
+planering: NULL
+huvuddiagnos_001: 160.9 Subarachnoidalblödning
+_validation_status: validation_status_approved

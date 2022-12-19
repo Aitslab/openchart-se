@@ -1,0 +1,36 @@
+id: 17
+sokorsak: Multitrauma
+kon: M
+alder: 25
+socialt: Arbetssökande
+tidigare_sjukdomar: Frisk, inga mediciner
+aktuellt: Inatt ca 03 i berusat tillstånd kört elsparkcykel och fallit. Trauma mot ansikte och hö sida av kroppen. Oklart om avsvimmad. Förbipasserande kontaktar ambulans varefter pat inkommer. Stabil i transport.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Berusad. Trött.
+hjarta: Normalt
+lungor: Normalt
+buk: Mjuk och oöm.
+sbp: 142
+dbp: 86
+sat: 100
+puls: 92
+temp: 35
+af: 18
+lokalstatus: Vä handled palpöm över distala radius. Ingen felställning. Distalstatus ua. Ansikte inspekterad med skrapsår över vä os zygomaticus där pat även ömmar. Tycker att bettet stämmer, men smärta över vä käkled vid palpation.
+oron: Bilat luftade
+mos: NULL
+neurologi: Normalt enl rutinnervstatus ad modum Lindgren
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: P-etanol 76. I övrigt ua.
+ekg: NULL
+bedomning: Elscooterolycka på tidigare frisk ung berusad man. CT hjärna utan blödnings eller ischemi. CT ansiktsskelett inkl käke med odislocerad zygomaticusfraktur. Kontakt med ÖNH-jour och pat är välkommen på deras mottagning imogon kl 9.20 för vidare bedömning.
+Rtg vä handled med odislocerad distal radiusfraktur. Dorsal radiusskena. ÅB 1v radiusmottagning med föregående röntgen. Erhåller info om commotio såväl skriftligt som muntligt.
+planering: NULL
+huvuddiagnos_001: S02.4 Fraktur Överkäkens ben W1999 Fall, ospec
+_validation_status: validation_status_approved

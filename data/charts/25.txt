@@ -1,0 +1,35 @@
+id: 25
+sokorsak: Medvetandefarlust
+kon: M
+alder: 79
+socialt: Ensamboende med SHT. Aktiv i pensionärförening.
+tidigare_sjukdomar: Lågt blodtryck. Prostatacancer diagnosticerad 2007. Behandlas med Leuprorelin. Under kontroll enl uro.
+aktuellt: Varit på lokal för pensionärer. Mått väl, spelat biljard. I samband med måltid plötsligt fallit av stol och kräkts. Segnat ner, inget huvudtrauma. Inga kramper. Blek. Avsvimmad ca 1 min. Ingen urin- eller faecesavgång. Inget tungbett. Ingen hosta. Enligt person på plats förvirrad 1-2 min efter det inträffade, därefter normal. Mår som vanligt nu. Förnekar bröstsmärta och fokalneurologiska bortfall.
+hereditet: NULL
+rokning: Ja
+larm: nej
+allmantillstand: Gott och opåverkat
+hjarta: Regelbunden rytm, inga blåsljud
+lungor: Rassel basalt bilat. Inga obstruktiva biljud.
+buk: Mjuk och oöm.
+sbp: 130
+dbp: 67
+sat: 93
+puls: 80
+temp: 36
+af: 15
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: RLS 1. Normal kognition. Kranialnerv 2-12 ua. Puiller normala. Sensorik, motorik samt koordination knormalt.
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb 119. TnI normalt. Normalt laktat.
+ekg: Högergrenblock såsom tidigare, i övrigt normalt. Normal QTc.
+bedomning: Syncope utan prodromalsymtom på äldre herre. Arrytmi kan inte uteslutas. Kan även ha varit kramp med tanke på postiktalitet. CT hjärna. Inläggning för telemetri för att fånga ev arrytmi.
+planering: NULL
+huvuddiagnos_001: R55.9 Svimning
+_validation_status: validation_status_approved

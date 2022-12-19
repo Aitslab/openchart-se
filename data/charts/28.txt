@@ -1,0 +1,36 @@
+id: 28
+sokorsak: Dyspné
+kon: K
+alder: 68
+socialt: Bor på LSS-boende. Uprsprungligen från Kina. Talar ej svenska. Tolkbehov.
+tidigare_sjukdomar: CVI. Hypertoni. Nyligen vårdad för ny stroke med högersidig påverkan. Nu tetrapleg. Kronisk KAD. Covid inneliggande, insjuknat ca 220313.
+aktuellt: Efter hemkomst ökad dyspné och en del hosta med mycket sekret. Temp vid något tillfälle >38 men annars afebril.
+hereditet: NULL
+rokning: Okänt.
+larm: nej
+allmantillstand: Gott och opåverkat.
+hjarta: Regelbunden rytm, inga hörbara bi- eller blåsljud.
+lungor: Normala andningsljud bilateralt.
+buk: Mjuk och öom. Inga palpabla resistener. Ingen ruckömhet över njurloger.
+sbp: 120
+dbp: 80
+sat: 95
+puls: 66
+temp: 37
+af: 16
+lokalstatus: Underben utan rodnad eller svullnad.
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Venös blodgas ua. CRP 90 (tidigare 50).
+ekg: NULL
+bedomning: Rtg pulm med atelektas vä ovanlob. Inga infiltrat.
+Pats tillfälliga försämring på boendet och feber bedöms vara del i covid-sjukdom. Inga säkra hållpunkter för pnuemoni, UVI eller annan bakteriell infektion. Ordinerar ingen antibiotika men pat får kort kur med betametason mot ev bronkitinslag.
+planering: Åter till sitt boende. Observans på försämring och i så fall ny kontakt med sjukvården.
+huvuddiagnos_001: R060 Dyspne
+_validation_status: validation_status_approved

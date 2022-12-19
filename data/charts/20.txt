@@ -1,0 +1,35 @@
+id: 20
+sokorsak: RektalaSymptom
+kon: K
+alder: 33
+socialt: Arbetar som undersköterska. Ensamboende. Tvåårig dotter.
+tidigare_sjukdomar: Väsentligen tidigare frisk
+aktuellt: I förra veckan föll patienten och uppsökte då vårdcentral. Man misstänkte revbensfraktur och patienten fick utskrivet Citodon. Smärtorna från thorax har successivt blivit bättre, men pat har fått biverkning i form av förstoppning. Inte haft avföring på 3 dygn fram tills hon igår tog Microlax med sparsam effekt. Gav mest smärta. Idag hård avföring och mycket krystande varefter det började blöda från ändtarmen. Haft hemorrojder i samband med graviditet, men aldrig blött då. Tyckte det var mycket klarrött blod varför hon nu söker. Mår i övrigt ganska väl. Inga anemisymtom.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Opåverkat i vila
+hjarta: Normalt och regelbundet
+lungor: Sidlikt och normalt
+buk: Palperas överallt mjuk och oöm. PR med riftad yttre hemorrojd kl 7 i vä sidoläge. PR utan blod. Proktoskopi och rektoskopi (endast till ca 6 cm) utan tecken till proximal blödningskälla.
+sbp: 112
+dbp: 72
+sat: 99
+puls: 87
+temp: 36
+af: 18
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb 125
+ekg: NULL
+bedomning: Bedöms som blödande yttre hemorrojd orsakat av obstipation efter citodonbehandling. Citodon avslutas. Pat köper receptfritt Movicol och använder 1-2 påsar dagligen i 1-2 veckor eller till normaliserad avföringsfrekvens. Receptfritt Xyloproct/Sheriproct mot hemorrojd. Åter vb.
+planering: NULL
+huvuddiagnos_001: O22.4 Hemorrojd
+_validation_status: validation_status_approved

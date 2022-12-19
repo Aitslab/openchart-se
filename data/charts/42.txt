@@ -1,0 +1,35 @@
+id: 42
+sokorsak: Diarré
+kon: K
+alder: 23
+socialt: Arbetar som handläggare på försökringskassan.
+tidigare_sjukdomar: Migrän som vid behovsbehandlas med sumatriptan. I övrigt frisk.
+aktuellt: För 5 dagar sedan insjuknat med kräkning och diarré. Sambo även varit sjuk. Knappt kunnat äta och dricka över helgen. Vätskeersättning. Kräkningar har successivt avtagit, men nu kvarstår vattnig diarré.. Avföring har blivit något grötigare. Inga blodiga eller slemmiga avföringar. Hade övergående frossa i samband med insjuknande, men endast första dygnet. Pats sambo är nu nästan helt bra, men pat är orkeslös och känner att hon inte vågar äta pga att hon då känner att hon då direkt får diarré. Avföring 8-10ggr/dygn.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Något trött. Afebril.
+hjarta: Regelbunden rytm utan hörbara bi- eller blåsljud.
+lungor: Normala andningsljud bilateralt.
+buk: Palperas överallt mjuk och oöm. Normala tarmljud.
+sbp: 112
+dbp: 68
+sat: 99
+puls: 87
+temp: 36
+af: 16
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Vita 8. CRP < 5. Krea 98.
+ekg: NULL
+bedomning: Sannolikt viral gastroenterit. Lätt kreastregring. Får på akuten totalt 2 liter RA och piggnar sedan på sig något. Åter till hemmet. Fortsatt vätskeersättning. Om fortsatt diarré om 2 v eller om feber hänvisas pat till VC för undersökning och ställningstagande till F-odling.
+planering: NULL
+huvuddiagnos_001: A09.9 Gastroenterit
+_validation_status: validation_status_approved

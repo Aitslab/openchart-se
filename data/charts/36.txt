@@ -1,0 +1,35 @@
+id: 36
+sokorsak: ThoraxSkada
+kon: M
+alder: 24
+socialt: Arbetar som kock.
+tidigare_sjukdomar: Tonsillectomerad i ungdomen, i övrigt frisk och medicinfri.
+aktuellt: Fallit i trappa på arbetet igår kväll. Trauma mot vänster thorax. Inget huvudtrauma. Smärta nu lateralt över revbenen som förvärras vid andetag och hosta som han har rest efter ÖLI en vecka sedan. Ingen hemoptys. Tagit receptfria analgetika utan tydlig lindring.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Smärtpåverkad vid djupandning, i övrigt ua
+hjarta: Regelbunden rytm utan bi- eller blåsljud
+lungor: Normala andningsljud bilateralt. POCUS utan tecken till pneumothorax.
+buk: Mjuk och oöm.
+sbp: 124
+dbp: 75
+sat: 99
+puls: 77
+temp: 36
+af: 18
+lokalstatus: Över vänster thorax tydlig palpömhet motsvarande costa 9-10. Ingen instabilitet. Hematom motsvarande detta område.
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb 156.
+ekg: NULL
+bedomning: Bedöms som revbensfrakturer vä. Ingen instabilitet eller tecken till pneumothorax. Oxynorm vb som komplement till receptfria analgetika. Åter vid akut försämring.
+planering: NULL
+huvuddiagnos_001: S22.30 Revbensfraktur
+_validation_status: validation_status_approved

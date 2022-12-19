@@ -1,0 +1,35 @@
+id: 54
+sokorsak: HandSkada
+kon: M
+alder: 21
+socialt: NULL
+tidigare_sjukdomar: Tidigare frisk, tar inga mediciner.
+aktuellt: Igår kväll fallit från en Lime-scooter påvägen hem. Tagit emot sig med höger hand, genast smärta här. Ej slagit i huvudet, lite smärtor ifrån höger höft, men i övrigt klarat sig väl. Stått iprinicp stilla vid övergångstället när fallet skedde. Ej druckit alkohol. Tilltgande smärtor i handen under natten och söker sig till akuten.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Gott, opåverkat.
+hjarta: NULL
+lungor: NULL
+buk: NULL
+sbp: NULL
+dbp: NULL
+sat: NULL
+puls: NULL
+temp: NULL
+af: NULL
+lokalstatus: Höger hand, ordentligt svullen med hematom över distala radius. Flextion och extention i handled möjligt men begränsas av smärta. Normalt distalstatus. Ingen smärta vid palpation över armbåge eller proximala delar av ulna/radius. Inga sårskador.
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: NULL
+ekg: NULL
+bedomning: Röntgen visar distal radiusfraktur med acceptabelt läge, minimalt disolocerad. Tidigare frisk. Erhåller radiusskena, gipsinformation och information om övningar. Avgipsning via sjukgymnast på VC om 3 veckor, remiss skickas. Arbetar i resturang, sjukskrives 4 veckor. Smärtlindring med alvedon. Åter efter behov.
+planering: NULL
+huvuddiagnos_001: S545
+_validation_status: validation_status_approved

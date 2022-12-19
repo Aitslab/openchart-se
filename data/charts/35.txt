@@ -1,0 +1,35 @@
+id: 35
+sokorsak: Melena
+kon: K
+alder: 79
+socialt: Ensamboende utan SHT.
+tidigare_sjukdomar: Hypertoni. Eliquisbehandlat förmaksflimmer. Hysterectomerad 2004 pga myom.
+aktuellt: Sedan 2 dagar svart avföring. Haft detta en gång tidigare, men gick då över spontant inom ett dygn. Inga tidigare kända ulcus. Tar inga NSAID. Ingen buksmärta. Inte varit tröttare än vanligt. Tagit sin Eliquis i morse. Ringde 1177 idag som hänvisade till akuten.
+hereditet: -
+rokning: -
+larm: nej
+allmantillstand: Opåverkat i vila
+hjarta: Oregelbunden rytm med svagt systolist blåsljud PM I2dx
+lungor: Normala andningsljud bilateralt
+buk: Ärr efter tidigare operation. Normala tarmljud. Palperas överallt mjuk och oöm. PR med kolsvart avföring på handske.
+sbp: 156
+dbp: 87
+sat: 98
+puls: 94
+temp: 37
+af: 18
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb 108. PK 1,2. Trc 150.
+ekg: NULL
+bedomning: Melena på Eliquisbehandlad kvinna. Hb sänkt till 108 jämfört med 127 en månad sedan på VC. Eliquis pausas. Nexium 80mg iv och sedan 40x2. Inläggning kirurgiavdelning akut för blödningsobservation. Hb x 4. Transfusionsgräns 90 eller allmänpåverkan. Remiss för gastroskopi skickas.
+planering: NULL
+huvuddiagnos_001: K92.1 Melena
+_validation_status: validation_status_approved

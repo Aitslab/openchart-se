@@ -1,0 +1,35 @@
+id: 32
+sokorsak: Kramper
+kon: K
+alder: 18
+socialt: Studerar sista året på gymnasiet. Bor hemma med båda föräldrar.
+tidigare_sjukdomar: Frisk
+aktuellt: Inkommer med ambulans efter att ha krampat i hemmet ca kl 17 i närvaro av moder. Beskriver att hon mått som vanligt under dagen. Varit ute med vänner. Ätit och druckit som vanligt. Förnekar feber och andra infektionssymtom. Ingen huvudvärk. Förnekar alkohol och annat drogintag. Enligt modern som är medföljande ska patienten ha haft generellt krampanfall med ca 45 sekunders duration, Därefter postiktal ca 3-4 minuter. Vid ambulans ankomst samt under transport mår patienten väl.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Orolig, i övrigt opåverkad
+hjarta: Regelbundet och normalt
+lungor: Normala andningsljud bilateralt.
+buk: NULL
+sbp: 110
+dbp: 65
+sat: 99
+puls: 67
+temp: 36
+af: 16
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: Enligt SWESEM ua.
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Laktat 3,6 i övrigt normalt.
+ekg: NULL
+bedomning: Förstagångskramp. CT hjärna ua. Prover ua. Fördjupat samtal med patient utan förälder och det framkommer att patienten intagit totalt 500mg tramadol under dagen. Har gjort så en längre tid. Information om kramprisk. Har inget körkort och övningskör ännu ej. Rekommenderas kontakt med Maria Malmö för vidare hjälp med att komma ur beroende. Observeras på akuten till 6 timmar efter kramp ua. Ingen planerad uppföljning.
+planering: NULL
+huvuddiagnos_001: R56.8X Krampanfall, ospec
+_validation_status: validation_status_approved

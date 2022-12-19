@@ -1,0 +1,35 @@
+id: 40
+sokorsak: BukSmarta
+kon: K
+alder: 42
+socialt: Gift. 2 barn. Arbetar som kurator på gymnasieskola.
+tidigare_sjukdomar: Infertilitetsproblematik pga PCOS. IVF x 2. Infertitlitetsutredningvisade även endometrios som för patienten har varit asymtomatisk.r
+aktuellt: Igår kl 21 plötslig smärta vänster fossa. Tog alvedon och Ipren och kunde sedan somna. Nu på morgonen har smärtorna spridit sig och blivit mer diffusa. Smärtorna värre vid rörelse. NRS 8 nu, 5 vid debut. Konstant värk nu, tidigare mer intervaller. Illamående, men ingen kräkning. Normal avföring senast igår. Ingen dysuri. Pågående mens sedan 4 dagar, tycker den ter sig normal och kom i rätt tid. Ingen avvikande flytning. Inget aktuellt preventivmedel, skulle kunna vara gravid.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Smärtpåverkad
+hjarta: Regelbunden rytm utan hörbara bi- eller blåsljud
+lungor: Normala andningsljud bilateralt
+buk: Lite uppspänd. Normala tarmljud. Diffust ömmande i nedre buk utan sidoskillnad. Släppöm, men ingen defence eller indirekt ömhet. PR ua.
+sbp: 132
+dbp: 72
+sat: 100
+puls: 94
+temp: 36
+af: 18
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: CRP 12. Vita 14. U-sticka 4+ röda, i övrigt ua. u-hCG neg.
+ekg: NULL
+bedomning: Akut insättande buksmärta med intervaller hos denna kvinna med bukstatus. Kan inte utesluta ovarialtorsion. Ringer gynjour och pat remitteras till KK akut för vidare bedömning och gynekologiskt ultraljud. Finner man inget gynekologiskt får pat komma åter för ny bedömning, men med tanke på peritonitretning sannolikt CT för diagnostik.
+planering: NULL
+huvuddiagnos_001: R104 Buksmärta
+_validation_status: validation_status_approved

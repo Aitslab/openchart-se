@@ -1,0 +1,35 @@
+id: 27
+sokorsak: Dyspné
+kon: M
+alder: 62
+socialt: Gift. Arbetar som arbetsledare inom bygg.
+tidigare_sjukdomar: Hypertoni. Hyperlipidemi. DM2 - tablettbehandlad. BPH.
+aktuellt: I samband med stavgång i förmiddags känt sig något trött och hängig. Övergående. Nu på kvällen för ca 40 minuter sedan gått trapporna upp till lägenheten och blivit hastigt anfådd och fått tryckande bröstsmärta. Bröstsmärtan satt i ca 20 min och är nu borta. Anfåddheten kvarstår. Kontaktar ambulans och inkommer. Bröstsmärtan central och tryckande utan utstrålning. Något kallsvettig i samband med detta. Förnekar infektionssymtom. Inte haft någon bensvullnad.
+hereditet: Fader hjärtinfarkt vid 60-årsåldern.
+rokning: Slutat för 5 år sedan. Totalt 30 paketår.
+larm: nej
+allmantillstand: Opåverkat.
+hjarta: Regelbunden rytm utan blåsljud.
+lungor: Normala och sidlika andningsljud.
+buk: Mjuk och oöm.
+sbp: 145
+dbp: 67
+sat: 97
+puls: 78
+temp: 36
+af: 18
+lokalstatus: Ingen palpömhet över bröstkorgen.
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: TnI 320.
+ekg: Inferiolateral sänkning av ST-T segment samt inverterade T-vågor.
+bedomning: N-STEMI. Laddningsdos ASA + Atorvastatin. Avvaktar Brilique och Arixtra tills vidare. Kontakt med kardiologjour för inläggning i ST-guard. Troponinserie. Kardjour beställer EKO + angiografi.
+planering: NULL
+huvuddiagnos_001: I214 Akut subendokardiell infarkt
+_validation_status: validation_status_approved

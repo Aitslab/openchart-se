@@ -1,0 +1,35 @@
+id: 11
+sokorsak: HuvudSmarta
+kon: K
+alder: 23
+socialt: Studerar sociologi.
+tidigare_sjukdomar: Frisk och medicinfri. Appendectomerad i barndomen.
+aktuellt: Igår kväll ca kl 22 akut insättande huvudvärk frontalt vänster. Kom över sekunder. Brukar inte ha huvudvärk. Har efter det känt sig något ljuskänslig och "bakfull". Ingen feber. Inga fokalneurologiska bortfall. Inga synfenomen. Inte kräkt. Beskriver skärande smärta som efter debuten successivt avklingat. Pratat med moder idag som sagt att åskknallshuvudvärk kan vara farligt varför pat nu söker.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Opåverkat. Afebril. Ingen nackstelhet.
+hjarta: Normalt.
+lungor: Normalt.
+buk: NULL
+sbp: 128
+dbp: 72
+sat: 100
+puls: 76
+temp: 36
+af: 16
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: RLS 1. Högre cerebrala funktioner ua. Kranialnerver 2-12 ua. PEARL. Motorik och koordination ua. Styrka och sensorik ua i övre och nedre extremitet.
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: ua
+ekg: Normalt.
+bedomning: Åskknallshuvudärk med debut 12 timmar sedan, därefter avklingande. SAH kan inte uteslutas. CT utan blödning. Kompletterar med LP som visar normala fynd avseende celler och inte  heller några tecken till genomgången blödning. Oklar huvudvärk som är klart på förbättringsvägen. Allvarliga orsaker uteslutits. Åter vb. Receptfria analgetika.
+planering: NULL
+huvuddiagnos_001: R51.9 Huvudvärk
+_validation_status: validation_status_approved

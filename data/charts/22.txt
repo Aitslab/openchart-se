@@ -1,0 +1,35 @@
+id: 22
+sokorsak: BrastSmarta
+kon: M
+alder: 41
+socialt: NULL
+tidigare_sjukdomar: Förkylningsastma som barn. Nu frisk och medicinfri.
+aktuellt: Idag på arbetet kl 8 noterat vänstersidig bröstsmärta som kommit och gått i 20-sekunders långa perioder. Debut i vila. Beskriver smärtan som punktformig och av molande karaktär. Förlägger den till kring bröstvårtan. Ingen utstrålning. Inga vegetativa symtom. Förvärras eller accentueras inte av något specifikt. Inga infektionssymtom. Ingen hosta. Nu smärtfri.
+hereditet: Ingen för AKS eller lungemboli
+rokning: Nej
+larm: nej
+allmantillstand: ua
+hjarta: RR, inga blåsljud
+lungor: Normalt
+buk: Mjuk
+sbp: 128
+dbp: 82
+sat: 99
+puls: 62
+temp: 36
+af: 16
+lokalstatus: Ingen rodnad syns. Ingen smärta vid palpation av bröstkorg.
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: TnI normalt. CRP < 5.
+ekg: Sinusrytm frekvens 54 utan tecken till belastning.
+bedomning: Ospecifik vänstersidig bröstsmärta som inte ter sig som AKS/LE. EKG + TnI ua. Heart score låga poäng. Åter till hemmet. Söker åter vid mer ihållande bröstsmärtor.
+planering: NULL
+huvuddiagnos_001: R07.4 Bröstsmärtor
+_validation_status: validation_status_approved

@@ -1,0 +1,36 @@
+id: 21
+sokorsak: Anemi
+kon: K
+alder: 34
+socialt: NULL
+tidigare_sjukdomar: Levaxinsubstituerad hypotyreos.
+aktuellt: Inremitteras via primärvård pga anemi med Hb 80. Ställningstagande till transfusion.
+Patienten har sökt VC då hon senaste halvåret upplevt sig trött och med försämrad kondition. Trott att detta varit underbehandlad hypotyreos. Vid provtagning finner man lågt blodvärde. Patienten beskriver rikliga menstruationer sedan längre tid. Enstaka perioder i livet behandlat med järntabletter. Blöder rikligt i en vecka. Regelbundet. Inga andra blödningssymtom från andra lokaler. Äter varierad kost. Har inte synkoperat. Ingen bröstsmärta.
+hereditet: -
+rokning: NULL
+larm: nej
+allmantillstand: Opåverkat i vila.
+hjarta: RR
+lungor: Normalt bilat
+buk: Mjuk och oöm. Normalfärgad faeces på handske.
+sbp: 110
+dbp: 70
+sat: 99
+puls: 84
+temp: 36
+af: 16
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb 79. Mikrocytär anemi. TIBC högt och ferritin lågt. Järnmättnad 3%. Övriga anemiprover normala.
+ekg: NULL
+bedomning: Järnbristanemi till följd av rikliga menstruationer. Inget transfusionsbehov. IV Monofer på akuten 1g. Uppstartas på behandling med Duroferon 100 x2 tills vidare. Cyklo F vid menstruation.
+planering: Denna anteckning till inremitterande som remissvar och för uppföljning av behandling.
+huvuddiagnos_001: D50.9 Järnbristanemi
+_validation_status: validation_status_approved

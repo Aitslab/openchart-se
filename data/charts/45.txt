@@ -1,0 +1,35 @@
+id: 45
+sokorsak: Misshandel
+kon: M
+alder: 23
+socialt: Arbetar som programmerare för Massive. Ensamboende.
+tidigare_sjukdomar: Appendectomerad och tonsillectomerad i ungdomen, i övrigt frisk.
+aktuellt: Varit ute på krogen igår kväll och i berusat tillstånd hamnat i bråk med annan person. Initialt slagen i nacken med någon typ av tillhygge , varefter han faller framåt. Oklart om avsvimmad, men patienten tror inte det. Ska därefter ha erhållit sparkar och slag mot thorax och buk när han var liggande. Polis har varit på plats. Kunnat ta sig hem med hjälp av kompis. Idag illamående och har kräkt x 1. Smärta över ffa vänster thorax där det finns hematom. Förnekar fokalneurologiska bortfallssymtom.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Något blek, i övrigt fint.
+hjarta: Normala hjärttoner
+lungor: Normala andingsljud bilat. Hematom över revbenen vä flank där pat även ömmar. Ingen instabilitet. POCUS utan tecken till pneumothorax bilat.
+buk: Normala tarmljud. Mjuk och sammanfallen. Över vä
+sbp: 118
+dbp: 65
+sat: 99
+puls: 80
+temp: 36
+af: 16
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: Normal enligt SWESEM.
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Blodgas ua. U-sticka utan hematuri.
+ekg: NULL
+bedomning: Misshandel i berusat tillstånd. Oklart om avsvimmad. För sent för S100B. CT hjärna ua. I övrigt ingen misstanke om intern blödning eller pneumothorax. Smärtlindring. Muntlig info avseende commotio. Åter vid försämring.
+planering: NULL
+huvuddiagnos_001: S060 Hjärnskakning
+_validation_status: validation_status_approved

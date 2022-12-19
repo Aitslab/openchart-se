@@ -1,0 +1,35 @@
+id: 39
+sokorsak: BukSmarta
+kon: K
+alder: 26
+socialt: Studerar till förskolepedagog
+tidigare_sjukdomar: Op x flera i buk. 20-årsåldern appendectomerad och sedan adherenslösningar x 4. Adherensileus x flera.
+aktuellt: I morse kl 07 akut insättande övre buksmärta. Kräks x flera. Känner själv igen som ileus. Ingen feber eller frossa. Avföring senast igår kväll normal. Fastande sedan igår kväll. Intervallsmärtor upp emot NRS 9. Fått totalt 10 mg morfin i ambulans.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Smärtpåverkad
+hjarta: Normala hjärttoner
+lungor: Normala andningsljud bilateralt.
+buk: Inspekteras med flertalet ärr efter tidigare operationer. Tyst buk. Överallt mjuk. Ultraljudsmässigt tunntarmsobstruktion med dilaterad tunntarm vätskefylld upp emot 4cm.
+sbp: 128
+dbp: 72
+sat: 99
+puls: 92
+temp: 36
+af: 18
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb, CRP, vita ua. Laktat 1,8.
+ekg: NULL
+bedomning: Ileus ånyo. V-sond. CT buk med iv och po kontrast och inlägges fastande på kirurgiavdelning akut. Vidare handläggning efter CT-svar.
+planering: NULL
+huvuddiagnos_001: R104 Buksmärta
+_validation_status: validation_status_approved

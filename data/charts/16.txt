@@ -1,0 +1,35 @@
+id: 16
+sokorsak: Melena
+kon: M
+alder: 81
+socialt: Ensamboende utan SHT
+tidigare_sjukdomar: Waranbehandlat förmaksflimmer. Hypertoni. Inhalationsbehandlad KOL. Känd divertikulos. Nefrectomerad 2008 pga tumör. Efterkontroller ua.
+aktuellt: Sedan 2 dagar har patienten noterat svart avföring. Idag tilltagande varför han söker. Ingen kräkning. Ingen viktnedgång. Ingen buksmärta. Inga infektionstecken. Aldrig tidigare haft samma. Beskriver avföring som kolsvart. Eventuellt koagler.
+hereditet: NULL
+rokning: Slutade i samband med nefrectomi.
+larm: nej
+allmantillstand: Opåverkat
+hjarta: Oregelbundet utan bi- eller blåsljud
+lungor: Bilat lättare obstruktiva biljud, men symmetrisk. Nedsatta andningsljud generellt såsom vid KOL.
+buk: Mjuk och oöm. PR med melena.
+sbp: 148
+dbp: 86
+sat: 96
+puls: 107
+temp: 36
+af: 20
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb 110. PK 7,2.
+ekg: Förmaksflimmer utan belastningstecken.
+bedomning: Melena på Waranbehandlad herre med högt PK. Vikt 80kg. Divertikelblödning? Ges 1500E confidex samt 10mg Konakion. Inlägges AKVA. Hb x 6. Transfusionsgräns 90. Blodgrupperad och BAS-testad från akuten. Nytt PK kl 20 för ställningstagande till upprepad confidexbehandling. Waran kryssas tills vidare. 80mg Nexium här på akuten och sedan 40mgx2. Fasta. Remiss för gastroskopi skickad.
+planering: NULL
+huvuddiagnos_001: K92.2 Gastrointestinal blödning, ospecificerad
+_validation_status: validation_status_approved

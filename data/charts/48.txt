@@ -1,0 +1,35 @@
+id: 48
+sokorsak: BukSmarta
+kon: M
+alder: 58
+socialt: Arbetar med redovisning på scania. Två barn. Ensamboende.
+tidigare_sjukdomar: Tablettbehandlad hypertoni, metotrexate och kortisonbehandlad behandlad RA sedan många år.
+aktuellt: Debut av smygande buksmärta under hö arcus för ca 1 vecka sedan, inget illamående eller kräkningar. Har upplevt liknande smärtor tidigare och tidigare UL verifierade gallstenar. Dock ökade smärtor de sista två dygnen, mycket svårare att röra sig, kunnat äta och inte upplevt någon korrelation till matintag. Ingen feber, men tagit fulldos NSAID. På direkt fråga har hon känt sig mer anfådd vid ansträning men inte uttalat. Haft smärtor i vä ben för lite mer än två veckor sedan men gått över.
+hereditet: Ingen känd
+rokning: Nej
+larm: nej
+allmantillstand: Gott, men lätt smärtpåverkad i vilka
+hjarta: Regelbunden rytm, inga hörbara bi eller blåsljud, diskret åt det takykarda hållet.
+lungor: Vesikulära andningsljud bilat.
+buk: Mjuk, men ömmar ganska tydligt vid djuppalpation under hö arcus, ingen tydlig släppömhet.
+sbp: 166
+dbp: 88
+sat: 94
+puls: 96
+temp: 37
+af: 24
+lokalstatus: Underben: Inga pittingödem, inget kliniskt DVT status.
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: CRP 124, ingen leverpåverkan, LPK 9, venös blodgas u.a
+ekg: NULL
+bedomning: Svårvärderat bukstatus pga kortisonbehandling, cholecystit trots opverkade leverprover? Med hänsyn till oklar klinisk bild genomgår CT lungartärer och buk som påvisar stor bilateral lungembolisering med misstänkt lunginfarkt basalt höger.
+planering: Inlägges AVA, UKG beställes till imorgon. Insättes på Xarelto, troligen poliklinisering efter UL om ingen uttalad HK påverkan.
+huvuddiagnos_001: I269
+_validation_status: validation_status_approved

@@ -1,0 +1,36 @@
+id: 44
+sokorsak: Farmaksflimmer
+kon: K
+alder: 77
+socialt: Pensionär. Särbo. Tidigare sjuksköteska inom förlossningsvården.
+tidigare_sjukdomar: Hypertoni. Xareltobehandlat paroxysmalt förmaksflimmer. Elkonverterad senast 210522.
+aktuellt: Vaknar inatt kl 03 med kraftig hjärtklappning. Tryckkänsla i bröstet. Ingen utstrålande smärta. Ingen dyspné. Känner igen som förmaksflimmer . Tar extra halv Metoprolol på morgonen (25mg) men fortsatt tryck i bröstet varför hon nu söker. Fastande sedan igår kväll. Tagit Xarelto regelbundet.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Opåverkat i vila.
+hjarta: Orgelbundet utan bi eller blåsljud.
+lungor: Normala andningsljud bilat.
+buk: Mjuk och oöm.
+sbp: 158
+dbp: 72
+sat: 99
+puls: 148
+temp: 36
+af: 18
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Venös blodgas ua. K 4,2. Troponin normalt.
+ekg: Förmaksflimmer frekvens 145 med lätt pressade ST-sträckor som i första hand tolkas frekvensberoende.
+bedomning: Känd paroxysmalt förmaksflimmer. Adekvat AK-behandlad. Färdigfastad. Tidigare elkonverterad utan komplikationer.
+Undertecknad procedursederar patienten med totalt 80mg Propofol och dr Kronblad elkonverterar. 200J till sinus första försök. Okomplicerad sedering. Observeras 1 timme därefter. EKG visar sinus utan belastningstecken och pat mår väl. Åter till hemmet utan planerad uppföljning.
+planering: NULL
+huvuddiagnos_001: I 48.9 Förmaksflimmer
+_validation_status: validation_status_approved
