@@ -12,7 +12,9 @@ You can remain anonymous or submit your contact details, if you want to be ackno
 For more information, please contact the project leader Sonja Aits (sonja.aits [at] med.lu.se).
 
 ## Data release history
-2022-12-19        OpenChart-SE, version 1       50 items
+2022-12-19
+OpenChart-SE corpus, version 1
+50 records
 
 
 ## Licensing
