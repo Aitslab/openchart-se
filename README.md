@@ -10,3 +10,16 @@ The data that is submitted will be reviewed by an experienced Swedish emergency 
 You can remain anonymous or submit your contact details, if you want to be acknowledged, and receive feedback and information about the release of the dataset.
 
 For more information, please contact the project leader Sonja Aits (sonja.aits [at] med.lu.se).
+
+
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
