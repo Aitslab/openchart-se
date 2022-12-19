@@ -1,0 +1,35 @@
+id: 12
+sokorsak: Bortfall
+kon: K
+alder: 57
+socialt: Bor tillsammans med dement make i lägenhet. Ingen SHT.
+tidigare_sjukdomar: Tablettbehandlad hypertoni. Benskörhet. Hysterectomerad pga myom.
+aktuellt: På morgonen idag i samband med träning plötsligt oförmåga att formulera ord samt att förstå hur övning som görs ofta skulle utföras. Samtidig domning i höger arm. Ingen synpåverkan. Ingen facialispares enligt närstående som var med. Symtom helt i regress efter ca 15-20 min. Känner sig nu helt återställd.
+hereditet: NULL
+rokning: Aldrig varit rökare
+larm: nej
+allmantillstand: Opåverkat
+hjarta: Regelbunden rytm utan hörbara bi- eller blåsljud
+lungor: Normalt
+buk: NULL
+sbp: 208
+dbp: 96
+sat: 99
+puls: NULL
+temp: 36
+af: 16
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: Normalt enligt SWESEM.
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Natrium 131, i övrigt ua.
+ekg: Sinusrytm utan belastningstecken
+bedomning: Sannolikt TIA. CT hjärna utan tecken till infarkt eller blödning. Vitsubstansförändringar förenliga med ålder. CT angio med vissa förträngningar, men inga signifikanta. Inlägges Neuro-OBS för telemetriövervakning och vidare observation. Insättes på Trombyl + Atorvastatin.
+planering: NULL
+huvuddiagnos_001: G459 TIA
+_validation_status: validation_status_approved

@@ -1,0 +1,35 @@
+id: 37
+sokorsak: BukSmarta
+kon: K
+alder: 29
+socialt: Sambo. Civilingenjör. Inga barn.
+tidigare_sjukdomar: Frisk. Aldrig opererad.
+aktuellt: För 2 dagar sedan insjuknad med lågt sittande buksmärta. Smärta i både höger och vänster fossa. Lätt utstrålning mot rygg. Brännande smärta. Inte värre i rörelse. NRS 6-7 som värst, nu ca 4-5 efter Alvedon. Successivt sämre och idag även intervallsmärtor ca 30-40 sekunder långa ca var 5:e minut. Illamående, men inte kräkt. Normal avföring. Ingen dysuri. Inga avvikande flytningar. SM 3v sedan.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Gott och opåverkat
+hjarta: Regelbunden rytm utan biljud
+lungor: Normala andningsljud bilat
+buk: Sammanfallen och normalkonfigurerad. Livliga tarmljud. Kraftigt palpöm centralt över blåsa samt i hö fossa. Mindre öm till väster. Inga tydliga peritonittecken. PR normal.
+sbp: 124
+dbp: 68
+sat: 99
+puls: 88
+temp: 38
+af: 18
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Vita 14. CRP 135. U sticka 3+ vita, 2+ röda, 2+ ketoner, neg nitur. u-hCG neg.
+ekg: NULL
+bedomning: Lågt sittande buksmärta hos tidigare frisk kvinna. App? Salpingit? Diskussion med teamleader. Remiss KK akut med frågeställning salpingit och om pat kommer åter därifrån utan diagnos får man komplettera med CT då det inte är helt typisk appendicit.
+planering: NULL
+huvuddiagnos_001: R104 Buksmärta
+_validation_status: validation_status_approved

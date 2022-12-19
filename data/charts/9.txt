@@ -1,0 +1,35 @@
+id: 9
+sokorsak: BukSmarta
+kon: K
+alder: 78
+socialt: Änka. ensamboende utan hemtjänst. Tidigare arbetat som lärare.
+tidigare_sjukdomar: Tablettbehandlad hypertoni. Känd divertikulos med recidiverande divertikuliter. Senast koloskoperad sept 2021.
+aktuellt: Sedan en vecka lågt sittande buksmärta samt låggradig feber. Ej kräkt. Lätt illamående. Påbörjat flytande kost som vanligt vid divertikulitepisoder. Haft något lös avföring igår. Nu fortsatta smärtor i hö fossa. Sökt VC som remitterar in pga CRP 110.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: SUbfebril.
+hjarta: Normalt
+lungor: Normalt
+buk: Distinkt ömmande med tecken till lokal peritonit i hö fossa. Inga resistenser. PR med tom ampull, inget blod eller avföring på handsken.
+sbp: 158
+dbp: 84
+sat: 98
+puls: 96
+temp: 38
+af: 20
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: CRP 108. Vita 14,4. U-sticka 1 + vita, 1+ protein.
+ekg: Normalt
+bedomning: Recidiverande divertikuliter, nu med fortsatt symtom efter 1 v samt labbmässigt och statusmässigt komplicerad divertikulit. Abcess? Perforation? CT buk. Cefo + Flagyl. Inlägges fastande på valfri kirurgisk avdelning.
+planering: NULL
+huvuddiagnos_001: K573 Divertikulit
+_validation_status: validation_status_approved

@@ -1,0 +1,35 @@
+id: 50
+sokorsak: Dyspné
+kon: K
+alder: 78
+socialt: Ensamboende, hemtjänst * 1.
+tidigare_sjukdomar: Insulin och tablettbehandlad DM2. Tablettbehandlad hypertoni. Höga blodfetter.
+aktuellt: Insjuknat för tre dagar sedan med andnöd vid gång. Tillkomst av hosta under gårdagen. Ej noterat feber, men ej heller mätt tempen. Idag nedsatt AT, svårt att gå. Tagit sina mediciner som vanligt. Sökt VC som hänvisat hit pga desaturering. Inte haft några utslag. Ej kontakt med någon annan som varit sjuk. Ej varit ute och rest. Ingen smärta vid miktion, buksmärta eller ÖNH symptom. Idag sämre, kan ej mobilisera sig i hemmet. Inkommer på remiss. Inga kräkningar eller GI symptom.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Gott, opåverkad i vila, ingen samtalsdyspné.
+hjarta: Normofrekvent regelbunden rytm, inga hörbara bi eller blåsljud.
+lungor: I stort vesikulära antingsljud bilat, dämpat basalt höger. Inget förlängt expirium.
+buk: Överallt muk och oöm. Ingen lokal peritonit.
+sbp: 117
+dbp: 80
+sat: 92
+puls: 87
+temp: 38
+af: 28
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Blodgas utan respiratorisk acidos, Ph 7,4, CRP 118, diskret förhöjt BE. Normalt laktat
+ekg: Sinusrym med kammarfrekvens 98, inga urakuta ischemiska tecken.
+bedomning: I första hand misstanke om penumoni eller COVID-19, inlägges infektionsavdelning. Provtages SARS-CoV2 insättes cefotaxim. Genomodlas. Nya prover imorgon, CRP, LPK. Röntgen puls från avdelningen. Syrgaskrävande, 2l. Ej septisk.
+planering: NULL
+huvuddiagnos_001: J189
+_validation_status: validation_status_approved

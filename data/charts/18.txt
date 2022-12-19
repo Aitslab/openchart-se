@@ -1,0 +1,35 @@
+id: 18
+sokorsak: Feber
+kon: M
+alder: 77
+socialt: Bor tillsammans med hustru. Ingen SHT.
+tidigare_sjukdomar: Tidigare hjärtinfarkt. Hypertoni. Kronisk KAD pga BPH.
+aktuellt: Byte av KAD på VC under förmiddagen. Nu framåt kvällen hög feber och frossa. Covid vaccinerad x 3. Inga symtom från luftvägar. Har tidigare haft urosepsis i samband med kateterbyte.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Högfebril
+hjarta: Regelbunden rytm utan hörbara bi-eller blåsljud.
+lungor: Vesikulära bilat.
+buk: Något överviktigt. Normala tarmljud. Mjuk och oöm.
+sbp: 144
+dbp: 67
+sat: 97
+puls: 90
+temp: 40
+af: 20
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb 146.  45. VIta 17. Krea 110. U-sticka 3+, vita 2+ blod, 2+ prot, pos nitur.
+ekg: NULL
+bedomning: Sannolikt urosepsis efter byte KAD. Blod + urinodling. Finner inga onormala patogener i tidigare odlingar. Cefotaxim 2g iv. RA. Pausar ACE-hämmare. Inlägges på medicinavdelning 1 för vidare vård.
+planering: NULL
+huvuddiagnos_001: A41.9 Sepsis
+_validation_status: validation_status_approved

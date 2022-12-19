@@ -1,0 +1,35 @@
+id: 34
+sokorsak: ArmSkada
+kon: K
+alder: 37
+socialt: Arbetar som socionom i Malmö stad. Sambo.
+tidigare_sjukdomar: Frisk, tidigare fotledsfraktur efter skidolycka.
+aktuellt: På förmiddagen varit ute och ridit då hästen blivit skrämd av något och tvärstannat under gallopp. Faller rakt föver hästen och landar på vänster sida, landat i gräs. Oklart om hon varit avsvimmad. Bar hjäm, men ingen ryggplatta. Omedelbart smärta vä thorax, axel och ländrygg. Kunnat mobiliserat sig själv till stående. Söker akuten för egen maskin, traumat nu ca 2 timmar sedan.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Gott, smärtpåverkad i vila. Ter sig tålig.
+hjarta: Normofrekent regelbunden rytm, inga hörbara bi eller blåsljud
+lungor: Ves andningsljud bilat
+buk: Överallt mjuk, men ömmar diffust högt upp under vä arcus. Ingen peritonit.
+sbp: 127
+dbp: 67
+sat: 100
+puls: 88
+temp: 36
+af: 23
+lokalstatus: Thorax: Stabil, inga hematom. Smärtar basalt vä sida av thorax. Vä axel: Ordentligt smärtsamt vid palpation över proximala humerus, kan inte abducera alls. Fint distalstatus. Columna: Ingen smärta vid palpation av nacke eller kolumna.
+oron: Inget hematotympani bilat
+mos: NULL
+neurologi: RLS 1,
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Venös blodgas med hb 133
+ekg: NULL
+bedomning: Ordentlig traumamekanism, oklart om hon varit avsvimmad. Stabil, E-fast negativ. Genomgår CT hjärna som inte visar på någon blödning eller fraktur. Röntgen av vä axel visar en proximal humerusfraktur med avlösning av tuberculum majus. erhåller axellås, nogsamt instruktioner om att inte abducera.
+planering: Återbesök om en en vecka till skuldersektionen med föregående röntgen.
+huvuddiagnos_001: S4220
+_validation_status: validation_status_approved

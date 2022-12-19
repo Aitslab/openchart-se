@@ -1,0 +1,35 @@
+id: 33
+sokorsak: FlankSmarta
+kon: K
+alder: 22
+socialt: Studerar vid LTH. Från Pakistan. Talar god engelska.
+tidigare_sjukdomar: Frisk
+aktuellt: För tre timmar sedan debut av vänstersidig flanksmärta. Utstrålning ner mot ljumsken och smärtan har flyttat sig något längre ner. Kräks x 2 i samband med smärttopp. Ingen feber, men haft frossa. Ingen hematuri. Aldrig haft liknande tidigare. SM 2 v sedan. Fått Diklofenak im för 1 timme sedan på VC med effekt, men nu återigen VAS 10.
+hereditet: -
+rokning: Nej
+larm: nej
+allmantillstand: Smärtpåverkad. Går runt i rummet.
+hjarta: Regelbunden rytm utan biljud
+lungor: Normala andningsljud bilateralt
+buk: Palperas överallt mjuk. Inga peritonittecken. Ingen specifik dunkömhet över arcus eller flanker. POCUS av undertecknad utan tydlig hydronefros eller hydrouretär.
+sbp: 118
+dbp: 74
+sat: 100
+puls: 90
+temp: 36
+af: 18
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: CRP ua. Vita 12. Krea 78. U-sticka 4+ röda.
+ekg: NULL
+bedomning: Bedöms som vänstersidig uretärsten. Då smärta igen ges 5mg Morfin och 0,25mg Atropin. Blir på detta nästintill smärtfri. Ser inget behov av akut radiologi. Hem med recept Diklofenak supp vb. Åter om feber, frossa eller smärta som inte viker på givet analgetika. Remiss till VC för uppföljande CT urografi inom 2-3 v för att fånga ev kvarvarande konkrement.
+planering: NULL
+huvuddiagnos_001: N20.1 Uretärsten
+_validation_status: validation_status_approved

@@ -1,0 +1,35 @@
+id: 52
+sokorsak: Extremitetssmarta
+kon: M
+alder: 74
+socialt: Gift, bor i hus med hustru. Barn utflugna.
+tidigare_sjukdomar: Hartmanns 2008 pga colontumör, debuterade med ileus. Friskförklarad. Depression, behandlats inom psykiatrin på drottninggatan till 2012 efter det via VC. Behandlar med SSRI. Höftprotes 2013 höger, halvprotes, pga artros. Tidigare arbetat som banktjänsterman, nu pensionär.
+aktuellt: Smärtor i vänster ben från och till sedan 3 dagar tillbaka. Inte noterat någon svullnad eller rodnad. Ingen dyspné eller föregående trauma. I övrigt mått väl. Inga luftvägssymptome eller feber. Kunnat stödja på benen, smärtorna förvärrats idag och då sökt akutmottagningen.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Gott och opåverkat
+hjarta: Normf regl rytm, inga blåsljud.
+lungor: u.a
+buk: NULL
+sbp: 165
+dbp: 88
+sat: 96
+puls: 77
+temp: 37
+af: 15
+lokalstatus: Vänster underben, inga pittingödem, lätt kompressionsömhet över det djupa vadsystemet och över muskulaturen proximalt i underbetet. Fint kärlstatus. Inga erytem. Ingen smärta över skeletala delar.
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: CRP 12, venös blodgas ua.
+ekg: NULL
+bedomning: Kompletterar med D-dimer som utfaller normalt. Låg sannolikhet för DVT. Framkommer vid förnyad anamnestagning att han klippt gräset i träskor dagen innan, kopplar själv ihop det med detta. Tolkas som muskuloskeletal smärta, lugnande besked. Alvedon efter behov, förnyad kontakt med vårdcentral vid besvär som överstiger en vecka.
+planering: NULL
+huvuddiagnos_001: S801
+_validation_status: validation_status_approved

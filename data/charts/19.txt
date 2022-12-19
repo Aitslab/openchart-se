@@ -1,0 +1,35 @@
+id: 19
+sokorsak: Andningssmarta
+kon: M
+alder: 68
+socialt: Bor i villa med hustru.
+tidigare_sjukdomar: Ischemisk hjärtsjukdom. Tablettbehandlad hypertoni. Kortisonbehandlad PMR
+aktuellt: Söker pga 4 dagars andingssvårigheter vid rörelse. Kan nu inte gå upp för trappan i huset utan att stanna halvvägs och hämta andan. - Uppger smärta vid djupinandning. Blivit insatt på vätskedrivande av distriktsläkaren för 2 månader sedan.
+hereditet: Ingen
+rokning: nej
+larm: nej
+allmantillstand: Klar & adekvat. RLS 1
+hjarta: Systolsikt blåsljud. Regelbunden rytm.
+lungor: Lättare rassel basalt bilateralt
+buk: Palperas mjuk och oöm.
+sbp: 135
+dbp: 95
+sat: 90
+puls: 101
+temp: 37
+af: 22
+lokalstatus: Pitting ödem bilateralt på underben. Höger något mer svullet än vänster. Höger vad ömmande över kärlsträngen .
+oron: NULL
+mos: NULL
+neurologi: RLS. God och liksidig motorik samt sensorik i alla fyra extremiteter. Rombergs test negativt. Grassets test utan anmärkning. Kranialnerver 2-12 testats utan anmärkning. ver 2-12.
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: ProBNP som ökat till 1500
+ekg: Sinusrytm. Ses tecken på högerkammarbelastning
+bedomning: Hög misstanke om DVT och Lungemboli. Erhåller innohep enligt vikt. Inlägges med telemetriövervakning. Hemodynamiskt stabil. Beställer CT lungemboli.
+planering: Inläggning. Efter CT svar ny kontakt med primärjour.
+huvuddiagnos_001: Dyspne
+_validation_status: validation_status_approved

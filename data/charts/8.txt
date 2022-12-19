@@ -1,0 +1,35 @@
+id: 8
+sokorsak: BukSmarta
+kon: K
+alder: 20
+socialt: Läser till socionom
+tidigare_sjukdomar: NULL
+aktuellt: För 2 dagars sedan debut av lågt sittande buksmärta. Nu senaste dygnet mer tilltagande. Utvecklat feber, 39 grader. Pat förlägger smärtan till höger fossa. Illamående, men ej kräkt. Normal avföring senast igår. Ingen dysuri. Inga avvikande flytningar.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Feber
+hjarta: Normalt
+lungor: Normalt
+buk: Normala tarmljud. Tecken till lokal peritonit hö fossa med släppömhet samt defence.
+sbp: 118
+dbp: 78
+sat: 99
+puls: 89
+temp: 38
+af: 18
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: CRP 68. Vita 15. U-sticka 2 + vita. u-hCG neg.
+ekg: NULL
+bedomning: Misstänkt appendicit. Fastande sedan kl 19 igår. Kontakt med kir husjour för op-anmälan. Inlägges kirurgisk avdelning fastande i väntan på op.
+planering: NULL
+huvuddiagnos_001: K379 Appendicit
+_validation_status: validation_status_approved

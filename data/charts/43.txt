@@ -1,0 +1,35 @@
+id: 43
+sokorsak: Fargiftning
+kon: K
+alder: 45
+socialt: Gift. 19-årig hemmaboende son med autismspektrumstörning. Utflyttad 22-årig dotter. Arbetar som försäkringshandläggare.
+tidigare_sjukdomar: Levaxinsubstituerad hypotyreos. Depressiv episod i samband med förlossning 2002. Sjukskrivning pga utmattning 2017.
+aktuellt: Patienten har sedan några veckor varit i konflikt med sin chef. Ska enligt patienten ha blivit felaktigt bortvald från rekryteringsprocess till chefsposition i företaget. Patienten har sedan dess mått tilltagande psykiskt dåligt och haft en del sjukfrånvaro. Sömnstörning och börjat dricka mer alkohol. Senaste vecka har övriga familjen varit bortresta, varefter det eskalerat. Ska igår kväll ha tagit 8st Imovane 7,5 mg samt druckit 2 flaskor vin varefter hon skrivit avskedsbrev till familjen där hon utpekar att det hela var chefens fel. Patienten vaknar idag på morgonen och kommer inte ihåg hela händelsen. Kräks och är illamående. Ringer ambulans och inkommer. Förnekar annat drogintag.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Ledsen. Trött.
+hjarta: Regelbunden rytm utan hörbara bi eller blåsljud.
+lungor: Normala andningsljud bilat.
+buk: Sammanfallen och normalkonfigurerad. Palperas överallt mjuk och oöm.
+sbp: 118
+dbp: 72
+sat: 98
+puls: 86
+temp: 36
+af: 16
+lokalstatus: Psykiskt status: Vaken och mestadels klar. Adekvat formell och emotionell kontakt. Dämpad och ångestfull. Inget overt psykotiskt. Bejakar suicidtankar, men hävdar att det hon genomförde var i affekt och att hon inte på riktigt vill ta livet av sig.
+oron: NULL
+mos: NULL
+neurologi: Normalt enl SWESEM.
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Venös blodgas normal. P-etanol 22. Paracetamol och salicylat ua.
+ekg: ua
+bedomning: Intox i suicidsyfte med Zopiklon och alkohol. Vaken och klar här. Ingen akut medicinskt vårdbehov. Pat går med på att komma till psykiatrin för bedömning. Går till psyk akut. Remiss i hand.
+planering: NULL
+huvuddiagnos_001: F19.0 Akut intoxikation orsakad av flera droger i kombination och av andra psykoaktiva substanser
+_validation_status: validation_status_approved

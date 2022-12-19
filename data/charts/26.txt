@@ -1,0 +1,35 @@
+id: 26
+sokorsak: HuvudSmarta
+kon: K
+alder: 38
+socialt: Gift. Arbetar inom hemtjänst.
+tidigare_sjukdomar: Sporadisk migrän med aura.
+aktuellt: Var på träning och gjorde benlyft med skivstång kl 17.40. Några minuter därefter åskknallshuvudvärk. Beskriver att den sitter i nacken, något mer till vänster. Sedan debut har värken fortsatt varit svår, VAS 8. Inga provocerande faktorer. Känner inte igen som migrän, ny typ av huvudvärk. Ont i nacke, lite stel här. Lite ljuskänslig. Ej kräkts. Inga fokala infektionssymtom. Ingen feber.
+hereditet: -
+rokning: Nej
+larm: nej
+allmantillstand: Opåverkad
+hjarta: Regelbunden rytm utan bi- eller blåsljud
+lungor: Normala andningsljud bilat
+buk: NULL
+sbp: 115
+dbp: 72
+sat: 99
+puls: 97
+temp: 36
+af: 14
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: Normal enligt SWESEM.
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb, CRP och vita ua.
+ekg: Normofrekvent sinusrytm utan tecken till belastning.
+bedomning: Åskknallshuvudvärk med debut för 3 timmar sedan. Akut CT hjärna för att fånga ev SAH. CT blank. Med tanke på tidig radiologi inom 6h efter debut och tolkad av erfaren neuroradiolog inget akut behov av LP. Pat mår redan bättre nu efter 5h. Åter till hemmet. Ingen planerad uppföljning.
+planering: NULL
+huvuddiagnos_001: R51.9 Huvudvärk
+_validation_status: validation_status_approved

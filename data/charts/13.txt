@@ -1,0 +1,35 @@
+id: 13
+sokorsak: HuvudSkada
+kon: M
+alder: 81
+socialt: Bor på SÄBO pga kognitiv svikt.
+tidigare_sjukdomar: Hypertoni. Tidigare hjärtinfarkt. Waranbehandling pga FF. Grav Alzheimers demens. Går med rollator.
+aktuellt: Pat har fallit idag på boendet ca 14.30 bevittnat av personal. Ingen medvetandeförlust. Sår occipitalt hö som blöder. Betett sig som vanligt efter fallet enligt personal på boende. Enligt ambulans sutureringsbehov. Har gått efter skadan. Klagar inte över smärta någon annanstans.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Märkt av demens.
+hjarta: Oregelbunden rytm med systolisk blåsljud PM I2 dx
+lungor: Normalt
+buk: NULL
+sbp: 168
+dbp: 94
+sat: 98
+puls: 104
+temp: 37
+af: 18
+lokalstatus: Bilat höftleder ua. Pat kan gå och stå med levande stöd. Övre extremitet ua. I skalpen syns ett 4 cm långt glipande sår.
+oron: NULL
+mos: NULL
+neurologi: Vaken. Desorienterad. Följer uppmaningar. Neurologisk undersökning enligt SWESEM ua. Pupiller asymmetriska, vidgad och icke ljusreagerande höger, men pat op här pga katarakt.
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: PK 3,4 I övrigt ua.
+ekg: Förmaksflimmer med utseende som tidigare
+bedomning: Huvudtrauma enligt ovan på Waranbehandlad dement äldre herre. Sårskada åtgärdas med 4 x staples. Borttagning om 7 dagar via VC. Remiss i hand. Gällande skallskada CT hjärna utan blödning. Ska observeras 24 timmar efter skadan. Bedömer att detta bäst görs i ordinarie boendeform. Ringer ansvarig SSK på boendet och informerar om extra tillsyn. Åter om försämring.
+planering: NULL
+huvuddiagnos_001: S060
+_validation_status: validation_status_approved

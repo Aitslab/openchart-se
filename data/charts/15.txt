@@ -1,0 +1,35 @@
+id: 15
+sokorsak: FlankSmarta
+kon: M
+alder: 29
+socialt: Arbetar inom hemtjänst.
+tidigare_sjukdomar: Tidigare frisk och medicinfri.
+aktuellt: Idag kl 08 akut insättande smärta hö fossa med utstrålning ner mot testikeln på hö sida. Kräkt i samband med smärttopp. Normal avföring senast igår. Mikterat normalt i morse. Smärtan finns kvar och det har börjat göra ont mer upp mot hö flank, dock mer molande smärta nu. Aldrig opererad i buk. Ingen feber eller frossa.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Smärtpåverkad.
+hjarta: Normalt, regelbundet
+lungor: Normalt.
+buk: Normalkonfigurerad och sammnfallen. Normala tarmljud. Palperas överallt mjuk och oöm. Lätt dunköm hö njurloge. Ingen dunkömhet över arcus. Yttre genitalia inspekteras och papleras ua.
+sbp: 154
+dbp: 78
+sat: 100
+puls: 90
+temp: 36
+af: 20
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: CRP <5. Vita 13. Krea 120 (62 tidigare). U-sticka 3+ röda.
+ekg: NULL
+bedomning: Misstänkt uretärsten hö. Ultraljud bedside med misstänkt lätt hydronefros och hydrouretär. Pat inte smärtfri trots Diklofenak 75mg im. Ger en dos Morfin-Atropin och beställer CT med anledning av kreastegring. Överrapporteras till pågående jour för vidare handläggning efter CT-svar.
+planering: NULL
+huvuddiagnos_001: N20.1 Uretärsten
+_validation_status: validation_status_approved

@@ -1,0 +1,35 @@
+id: 23
+sokorsak: BukSmarta
+kon: M
+alder: 82
+socialt: Ensamboende utan SHT. Stöd av anhöriga.
+tidigare_sjukdomar: Eliquis pga FF. Prostatectomerad pga prostatacancer 2002, kontroller via Uro ua. Okt 2021 längre vårdtid pga täck perforation av duodenalulcus. Konservativ behandling. HP-eradikerad. Kontrollskoperad i dec med utläkt sår. Förlängd PPI pga svullnad.
+aktuellt: Sedan en knapp vecka lågt sittande buksmärta. Värre nattetid. Ingen feber. I övrigt ej påverkad. Normal miktion och avföring. Tycker det känns som när han han sökte senast. Värst till vänster.
+hereditet: NULL
+rokning: Nej
+larm: nej
+allmantillstand: Märkt av ålder, i övrigt ua.
+hjarta: Oregelbundet utan biljud.
+lungor: Normalt.
+buk: Tydligt palpationsöm med lokal peritonit (defence, indirekt ömhet och slöppömhet) i vä fossa. PR ua.
+sbp: 158
+dbp: 86
+sat: 99
+puls: 89
+temp: 36
+af: 18
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb 120. Vita 9. CRP 100.
+ekg: NULL
+bedomning: På CT från föregående vårdtillfälle kommenterar man divertikulos. Sannolikt divertikulit nu, med tanke på duration ev komplicerad med abcess. Beställer CT för vidare kartläggning. Överrapporteras till nattjour för vidare handläggning efter CT-svar.
+planering: NULL
+huvuddiagnos_001: R104 Buksmärta
+_validation_status: validation_status_approved

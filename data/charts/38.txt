@@ -1,0 +1,35 @@
+id: 38
+sokorsak: SkrotumSmarta
+kon: M
+alder: 71
+socialt: Gift. Vuxna barn. Aktiv med stavgång dagligen.
+tidigare_sjukdomar: Radikalt prostatectomerad 2004 pga cancer. Bedömd recidivfri. Regelbundna kontroller. Hypertoni.
+aktuellt: Akut insättande smärta i höger testikel ca kl 13 idag. Steg till NRS 9 inom några minuter. Utstrålning upp mot hö ljumske. Tog Naproxen och Alvedon hemma, vilket hjälpte något. Nu NRS 4-5. Aldrig haft liknande tidigare. Ingen dysuri. Ingen hematuri. Förnekar feber och frossa. Ej illamående eller kräkt. Fastande sedan kl 11.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Relativ opåverkad.
+hjarta: Regelbunden rytm med normala hjärttoner.
+lungor: Normala andningsljud bilateralt
+buk: Normalkonfigurerad och sammanfallen. Normala tarmljud. Mjuk och oöm. Bråckportar ua. PR ua.
+sbp: 156
+dbp: 86
+sat: 98
+puls: 84
+temp: 36
+af: 16
+lokalstatus: Yttre genitalia inspekteras utan svullnad eller rodnad. Höger testikel som vänster. Palperas igenom testis och epidymidis utan ömhet. Cremasterreflex normal bilat.
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb, vita crp ua. Krea ua. U-sticka 2+ röda.
+ekg: NULL
+bedomning: Testissmärta utan några direkta tecken till torsion. TWIST-score 0. Uretärsten? CT visar distal sten 4x3 mm höger uretär. Inget tecken till avflödeshinder. Smärtfri efter Diklofenak. Hem med recept Diklofenak supp. Remiss VC för uppföljande CT urografi om 2-3 veckor. Åter vid feber eller smärta som inte viker på analgetika.
+planering: NULL
+huvuddiagnos_001: N20.1 Uretärsten
+_validation_status: validation_status_approved

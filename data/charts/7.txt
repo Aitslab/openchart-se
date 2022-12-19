@@ -1,0 +1,35 @@
+id: 7
+sokorsak: BrastSmarta
+kon: M
+alder: 51
+socialt: Gift. 2 barn. Golvläggare.
+tidigare_sjukdomar: Hypertoni. Typ 2 diabetes.
+aktuellt: Inkommer med några dagars tilltagande retrosternal central bröstsmärta. Förvärras vid ansträngning. Idag cyklat till stranden och fått ihållande smärta som släppte efter 20 minuter. Haft liknande besvär i några veckor vid joggingturer men smärtan kommer nu mer lättväckt. Ingen andningskorrelation. Ingen dyspné. Ingen infektion i närtid. Inga kända allergier.
+hereditet: Mor med MI i 60-årsåldern.
+rokning: Slutat för 5 år sedan. 10 paketår.
+larm: nej
+allmantillstand: Opåverkad.
+hjarta: Regelbunden rytm. Inga hörbara bi- eller blåsljud.
+lungor: Lättare rassel basalt bilateralt.
+buk: Anikterisk. Lätt adipös. Överallt mjuk och oöm.
+sbp: 178
+dbp: 110
+sat: 95
+puls: 90
+temp: 36
+af: 16
+lokalstatus: Underben diskreta pittingödem.
+oron: NULL
+mos: NULL
+neurologi: RLS1.
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Venös gas ua. CRP 6. LPK 12. Tnt 60-90-300
+ekg: Sinusrytm med frekvens 70/min. Inga st-höjningar. Lätt pressade st-sträckor interiort.
+bedomning: Tilltagande retrosternal brsm i samband med ansträngning sista veckorna. Idag längre episod. Tnt med dynamik. EKG utan höjning. Bedöms som NSTEMI.
+planering: Inläggning. Erhåller full AKS-behandling. Avstår Brilique pga cag imorgon.
+huvuddiagnos_001: I21.9
+_validation_status: validation_status_approved

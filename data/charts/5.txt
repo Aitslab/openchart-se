@@ -1,0 +1,35 @@
+id: 5
+sokorsak: Dyspné
+kon: K
+alder: 58
+socialt: Gift, tre utflugna barn, arbetar som undersköterska.
+tidigare_sjukdomar: Hypertoni, hypotyreos, hyperlipidemi
+aktuellt: Förkyld för tio dagar sedan. Efter en vecka förbättrad och gick tillbaka till arbetet. Sedan två dagar allt tröttare och frossig. Kom hem från jobbet och blev liggandes i en soffa hela kvällen. Temp 39,1 grader med rektaltermometer. Sov dåligt, svettades och blev allt mer tungandad. Imorse svårväckt i sängen när maken försökte väcka henne. Andades snabbt och talade osammanhängande. Maken blev orolig och ringde 1177 som kopplade vidare samtalet till ambulansen. Patienten har själv svårt att ge någon utförligare anamnes men förnekar bröstsmärta, tryck över bröstet och utstrålning i arm eller käke. Förnekar även buksmärta, trängningar och sveda vid miktion. Senaste avföring tre dagar sedan, då ua. Ej kunnat äta eller dricka sedan igår morse.
+hereditet: Far avled i hjärtinfarkt vid 53 års ålder.
+rokning: Ja, ett paket/dag sedan 15 åå.
+larm: ja
+allmantillstand: NULL
+hjarta: NULL
+lungor: NULL
+buk: NULL
+sbp: NULL
+dbp: NULL
+sat: NULL
+puls: NULL
+temp: NULL
+af: NULL
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: A fritt, ingen stridor. Tom munhåla. Ingen misstanke om nacktrauma.
+B: AF 35, pox 96% på 10 liter syrgas. Ausk pulm vä basalt dämpade andningsljud samt dämpad perkussionston. Ausk pulm hö sida ua. Ingen ronchi eller stridor. Normala bröstkorgsrörelser, ingen central cyanos med syrgasen.
+C: Blodtryck 80/60, puls 110. KÅF 4 sek. Ausk cor takykard regelbunden rytm utan bi- eller blåsljud. Kall perifert, tunna pulsar i radialis och tibialis. Buk mjuk, oöm, normala tarmljud, inga palpabla resistenser. Ej dunköm över njurlogerna.
+D: RLS 1-2, likstora pupiller som reagerar för direkt och indirekt ljus, inga lateraliserande symtom. Ingen nackstelhet.
+E: Temp 39,7. Inspekterar hudkostymen utan petechier, hematom, sår eller uppenbaka infektioner.
+lab: NULL
+ekg: Sinustakykardi utan tecken till ischemi.
+bedomning: Sepsis, troligen på basis pneumoni. Erhåller vid ankomst syrgas på mask 10 liter samt har fått en liter Ringer iv. Sätter ytterligare en nål och flushar in med övertryck ytterligare en liter. Efter detta bltr 100/80, puls 95, dvs svarar ok på vätskeresuciteringen.Därefter en tredje liter som tills vidare får gå in på 4 tim. Blododlar, urinodlar. Erhåller antibiotika Cefotaxim samt engångsdos Gensumycin iv. Kan ej producera sputum, nph-odlar. Sätter kateter, mörkgul urin.
+planering: Inläggning. Kontaktar narkosjour för iva-bedömning. Förslagsvis bör pat observeras på iva till imorgon bitti och kanske sedan gå till medicinavd. Karensar pats hypertoniläkemedel. Ordinerar Cefotaxim samt vätska iv.
+huvuddiagnos_001: NULL
+_validation_status: validation_status_approved

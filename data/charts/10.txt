@@ -1,0 +1,35 @@
+id: 10
+sokorsak: Arytmi
+kon: K
+alder: 31
+socialt: Tvåbarnsmor, yngsta barnet 6 månader. Arbetar på förskola
+tidigare_sjukdomar: Anemi i samband med graviditet. Tidigare behandlats med järntabletter, men inte nu.
+aktuellt: Senaste veckorna upplevt intermittenta palpitationer. Varar i ca 30-60 sekunder, sedan övergående. Ingen bröstsmärta. Känner viss oregelbundenhet enligt pat. Haft liknande tidigare, men ej så ofta som idag. Sökt VC tidigare för samma besvär och remitterats för 24-timmars Holter, men ännu ej blivit kallad. I övrigt inga associerade symtom. Ingen feber eller andra infektionssymtom. Inga svettningar. Ingen viktnedgång.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Gott och opåverkat
+hjarta: Regelbunden rytm.
+lungor: Normalt bilat
+buk: NULL
+sbp: 134
+dbp: 74
+sat: 99
+puls: 78
+temp: 36
+af: 16
+lokalstatus: Nedre extremitet utan ödem
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Hb 128. TnI normalt. TSH + T4 normalt.
+ekg: Normofrekvent sinusrytm med enstaka SVES utan belastningstecken.
+bedomning: Inga tecken till allvarlig bakomliggande arytmi. Normalt Hb, TSH och T4. Expektans. Har planerad uppföljning via VC med Holter. Åter vid akut försämring.
+planering: NULL
+huvuddiagnos_001: R002 Hjärtklappning
+_validation_status: validation_status_approved

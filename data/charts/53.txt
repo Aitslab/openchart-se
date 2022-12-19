@@ -1,0 +1,36 @@
+id: 53
+sokorsak: Fargiftning
+kon: K
+alder: 33
+socialt: Okänt
+tidigare_sjukdomar: Oklart, har inga tidigare registrerade vårdtillfällen i Melior.
+aktuellt: Inkommer tillsammans med polis, funnen på södervärn där hon slagit på rutan till pressbyrån och betett sig agiterat. Ej känd av polisen. I samband med omhändertagandet kräkts och blivit mer svårkontaktbar varpå man fört henne till akutmottagningen. Talat enstaka ord men inte kunnat ge någon autoanamnes.
+hereditet: NULL
+rokning: NULL
+larm: nej
+allmantillstand: Ligger på britsen, somnar snabbt undan men tittar upp vid tilltal. Hel och ren.
+hjarta: Normofrekvent regelbunden rytm, takykard 110. Diskret blåsljud.
+lungor: Vesikulära andningsljud i liggande.
+buk: Svårundersökt, men ter sig mjuk och oöm. Inget peritonit, ingen förstorad lever.
+sbp: NULL
+dbp: NULL
+sat: NULL
+puls: NULL
+temp: 38
+af: NULL
+lokalstatus: Hud: Hel, varm och torr. Psykiskt status: Hel, ren. Förlångsammad, RLS 2. Tittar upp och ger kontakt vid tilltal, svarar adekvat på enstaka frågor. Svarar ej på intag av droger eller överdosering av läkemedel. Inga overta psykotiska symptom. Går ej att penetrera suicidanmanes närmare.
+oron: NULL
+mos: NULL
+neurologi: RLS 2, förlångsammad med förstår uppmaningar. Rör samtliga extremiteter. Ingen tremor. Normalstora pupiller som regagerar normalt för ljus, ingen nystagmus. Ingen kranialnervspåverkan. Sensibilitet grovt testat utan anmärkning. Lättutlösta reflexer med positiv babinski bilat.
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: Venösblodgas med lätt metabol acidos, i övrigt utan anmärkning.
+ekg: Sinusrytm med kammarfrekvens 117, gränslång QTc-tid.
+bedomning: klar intoxikation, ej känd i Malmö tidigare och enligt folkbokföring boende i Karlskrona. Enligt Pascal under pågående behandling med SSRI pga depression, fått utskrivet lergigan/comp för tre dagar sedan. Kliniskt misstanke om antikollinergt syndrom, har även resurin på 800ml. Disk med giftinformation, med hänsyn till okänd tid för intaget väljer att inte magskölja. Sammataget klinisk bild med QTc förlänging, förlångsamning talar för måttlig till svår lergiganintox. Diskutrerar med IVA-jour, Mårtensson. Överens om att vi påbörjar övervakning på AVA, vid försämring i medvetandegrad, tilltagande grad av agitering eller symptom på delirium kontakt med husjour för ställningstagande till fysostigmin. Avvaktar dock detta i nuläget då det är oklart om det föreligger en blandintoxikation. Polis försöker nå anhöriga för mer information, förnyad kontakt till AVA då svar föreligger.
+Erhåller en liter ringer, inlägges AVA.
+planering: NULL
+huvuddiagnos_001: F130
+_validation_status: validation_status_approved

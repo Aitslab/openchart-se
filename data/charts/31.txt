@@ -1,0 +1,35 @@
+id: 31
+sokorsak: BlodsockerHagt
+kon: K
+alder: 43
+socialt: Arbetar som lärare. Sambo. 2 barn 11 och 13 år gamla.
+tidigare_sjukdomar: Övervikt. Appendectomerad i ungdomen. Säsongsbunden allergi.
+aktuellt: Senaste månaderna tilltagande trötthet. Har tänkt att det var pga hög arbetsbelastning under höst och vinter men söker VC nu under våren då det inte blivit bättre. Man konstaterar på VC högt blodsocker >20 och remitterar in för vidare bedömning. Patienten förnekar infektionssymtom. Bejakar ökad törst och miktionsfrekvens senaste månaderna. Ingen synpåverkan.
+hereditet: -
+rokning: -
+larm: nej
+allmantillstand: Opåverkad i vila.
+hjarta: Regelbunden rytm utan biljud
+lungor: Normalt.
+buk: Adipös. Mjuk och oöm.
+sbp: 155
+dbp: 95
+sat: 99
+puls: 88
+temp: 36
+af: 16
+lokalstatus: NULL
+oron: NULL
+mos: NULL
+neurologi: NULL
+A: NULL
+B: NULL
+C: NULL
+D: NULL
+E: NULL
+lab: P-glukos 27. Na 132. pH normalt. BE normalt. U-sticka med 3+ glukos, ingen ketonuri. CRP < 5.
+ekg: NULL
+bedomning: Nydebuterad sannolikt DM2 utan komplikation såsom HNKS eller DKA. Något dehydrerad. Erhåller 1 liter RA och sedan är P-glukos 18,7. Åter till hemmet. Insättes Metformin 500mg 1x1. Denna anteckning till inremitterande för vidare uppföljning och utredning avseende diabetes samt uppföljning blodtryck.
+planering: NULL
+huvuddiagnos_001: R73.9 Hyperglykemi
+_validation_status: validation_status_approved
