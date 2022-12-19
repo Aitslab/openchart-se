@@ -7,4 +7,4 @@ If you are a health care professional or medical student in Sweden, you can help
 
 You can remain anonymous or submit your contact details, if you want to be acknowledged, and receive feedback and information about the release of the dataset.
 
-For more information, please contact the project leader Sonja Aits (sonja.aits [at] med.lu.se) or check out our lab website: www.aitslab.org
+For more information, please contact the project leader Sonja Aits (sonja.aits [at] med.lu.se).
