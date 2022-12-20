@@ -14,7 +14,7 @@ For more information, please contact the project leader Sonja Aits (sonja.aits [
 
 ## Dataset
 
-The OpenChart-SE corpus containing the submitted artificial EHRs that have passed quality control can be found in the "data" folder.
+The OpenChart-SE corpus containing the submitted artificial EHRs that have passed quality control can be found in the "data" folder. 
 
 ### Data release history
 2022-12-19
@@ -24,7 +24,7 @@ OpenChart-SE corpus, version 1
 50 records
 
 ## Article
-Our pre-print article describing the OpenChart-SE project and corpus can be found in the file "OpenChart-SE_preprint_v1.docx".
+Our pre-print article describing the OpenChart-SE project and corpus can be found in the file "OpenChart-SE_preprint_v1.docx". Corpus and supplemental files are in the "data" folder.
 
 ## Licensing
 
