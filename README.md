@@ -12,16 +12,23 @@ You can remain anonymous or submit your contact details, if you want to be ackno
 
 For more information, please contact the project leader Sonja Aits (sonja.aits [at] med.lu.se).
 
-## Data release history
+## Dataset
+
+The OpenChart-SE corpus containing the submitted artificial EHRs that have passed quality control can be found in the "data" folder.
+
+### Data release history
 2022-12-19
 
 OpenChart-SE corpus, version 1
 
 50 records
 
+## Article
+Our pre-print article describing the OpenChart-SE project and corpus can be found in the file "OpenChart-SE_preprint_v1.docx".
 
 ## Licensing
 
+Please cite our pre-print when using the OpenChart-SE corpus and associated materials.
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
