@@ -6,5 +6,8 @@ This folder contains the OpenChart-SE dataset, version 1, with 50 artificial EHR
 ## Codebook
 The codebook contain information about each variable used. It is in XLSForm-format, which can be re-used in several different applications for data collection.
 
+## suppl_data_1_openchart-se_form.pdf
+OpenChart-SE mock emergency care EHR form.
+
 ## suppl_data_3_openchart-se_dataexploration.ipynb
 This jupyter notebook contains the code and results from the analysis of the OpenChart-SE corpus.
