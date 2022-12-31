@@ -1,5 +1,7 @@
 # OpenChart-SE
 
+![OpenChart-SE project](openchart-se.png)
+
 Every year hundreds of thousands of patients are treated in Swedish hospitals. By studying them thoroughly, we could gain many new insights into disease conditions, e.g. learn to predict disease outcomes, understand common symptom combinations or detect adverse effects. To do this, we would need to systematically go through the patients’ electronic health records and extract information about prior diseases and medications, symptoms and other patient characteristics. Unfortunately, it is not possible to do this manually as the amount of text that needs to be processed far exceeds the resources available for research.
 Artificial intelligence models trained to extract specific types of information, such as symptoms, could help with this. To train such models, we need to have patient health records as training material. However, real health records are highly sensitive in their nature and cannot be shared openly. To solve this problem, we want to generate a collection of “fake” electronic health records, written by real Swedish health care professionals or medical students about imaginary patients. These can then be shared openly with researchers and used to train and evaluate a variety of artificial intelligence models without any privacy concerns. These models will learn the language typically used by Swedish health care professionals and can then be used on real patient records after appropriate evaluation and ethical approval.
 
