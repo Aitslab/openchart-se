@@ -24,7 +24,7 @@ OpenChart-SE corpus, version 1
 50 records
 
 ## Article
-Our pre-print article describing the OpenChart-SE project and corpus can be found in the file "OpenChart-SE_preprint_v1.docx". Corpus and supplemental files are in the "data" folder.
+Our pre-print article describing the OpenChart-SE project has been submitted to a preprint server. Supplemental data for the preprint in the "data" folder.
 
 ## Licensing
 
@@ -38,4 +38,6 @@ The dataset and code in this repo is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+The preprint is licensed as described on the preprint server.
 
