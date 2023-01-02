@@ -44,13 +44,13 @@ The dataset and code in this repo is licensed under a
 A preprint is submitted and will be available shortly. The preprint is licensed as described on the preprint server.
 
 ## Authors
-[https://github.com/tracits] (Johanna Berg (1,2), ORCID 0000-0001-7553-7337)
+[Johanna Berg (1,2), ORCID 0000-0001-7553-7337](https://github.com/tracits)
 
-[https://github.com/callebalik] (Carl Ollvik Aasa (3))
+[Carl Ollvik Aasa (3)](https://github.com/callebalik)
 
 Björn Appelgren Thorell (1)
 
-[https://github.com/SonjaAits] (Sonja Aits (3), ORCID 0000-0002-1321-0678)
+[Sonja Aits (3), ORCID 0000-0002-1321-0678](https://github.com/SonjaAits)
 
 1 Department of Emergency and Internal Medicine, Skåne University Hospital, Malmö, Sweden
 
