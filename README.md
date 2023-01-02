@@ -45,12 +45,17 @@ A preprint is submitted and will be available shortly. The preprint is licensed 
 
 ## Authors
 [https://github.com/tracits](Johanna Berg (1,2), ORCID 0000-0001-7553-7337)
+
 [https://github.com/callebalik](Carl Ollvik Aasa (3))
+
 Björn Appelgren Thorell (1)
+
 [https://github.com/SonjaAits](Sonja Aits (3), ORCID 0000-0002-1321-0678)
 
 1 Department of Emergency and Internal Medicine, Skåne University Hospital, Malmö, Sweden
+
 2 Department of Global Public Health, Karolinska Institute, Stockholm, Sweden
+
 3 Cell Death, Lysosomes and Artificial Intelligence Group, Department of Experimental Medical Science, Faculty of Medicine, Lund University, Lund, Sweden
 
 
