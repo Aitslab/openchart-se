@@ -30,7 +30,7 @@ Our pre-print article describing the OpenChart-SE project has been submitted to 
 
 ## Licensing
 
-Please cite our zenodo record when using the data and code in this repo. The data in this repo is identical with that in the zenodo repository: (https://doi.org/10.5281/zenodo.7499831)
+Please cite our zenodo record when using the data and code in this repo. The data in this repo is identical with that published on zenodo, [https://doi.org/10.5281/zenodo.7499831](https://doi.org/10.5281/zenodo.7499831)
 
 The dataset and code in this repo is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
