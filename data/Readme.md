@@ -11,3 +11,7 @@ OpenChart-SE mock emergency care EHR form.
 
 ## suppl_data_3_openchart-se_dataexploration.ipynb
 This jupyter notebook contains the code and results from the analysis of the OpenChart-SE corpus.
+
+The data here is identical with that in the zenodo repository: https://doi.org/10.5281/zenodo.7499831
+
+If you use this data, please cite the zenodo entry.
