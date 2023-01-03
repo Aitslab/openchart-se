@@ -19,11 +19,17 @@ For more information, please contact the project leader Sonja Aits (sonja.aits [
 The OpenChart-SE corpus containing the submitted artificial EHRs that have passed quality control can be found in the "data" folder. 
 
 ### Data release history
-2022-12-19
+#### 2022-12-19
 
-OpenChart-SE corpus, version 1
+OpenChart-SE corpus, version 1, released in this repo and on Zenodo, [https://zenodo.org/record/7499831#.Y7Rs4BXMJEY](https://zenodo.org/record/7499831#.Y7Rs4BXMJEY)
 
 50 records
+
+
+#### 2023-01-03
+OpenChart-SE preprint released in this repo (openchart-se_v2.pdf)
+
+
 
 ## Article
 Our pre-print article describing the OpenChart-SE project has been submitted to a preprint server. Supplemental data for the preprint in the "data" folder.
@@ -32,16 +38,26 @@ Our pre-print article describing the OpenChart-SE project has been submitted to 
 
 Please cite our zenodo record when using the data and code in this repo. The data in this repo is identical with that published on zenodo, [https://doi.org/10.5281/zenodo.7499831](https://doi.org/10.5281/zenodo.7499831)
 
-The dataset and code in this repo is licensed under a
+The preprint in this repo is licensed under a
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License][cc-by-nc-nd].
+
+[![CC BY-NC-ND 4.0][cc-by-nc-nd image]][cc-by-nc-nd]
+
+[cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+
+
+
+The EHR dataset and code in this repo is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-A preprint is submitted and will be available shortly. The preprint is licensed as described on the preprint server.
+
+
 
 ## Authors
 [Johanna Berg (1,2), ORCID 0000-0001-7553-7337](https://github.com/tracits)
