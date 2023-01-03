@@ -36,25 +36,26 @@ Our pre-print article describing the OpenChart-SE project has been submitted to 
 
 ## Licensing
 
-Please cite our zenodo record when using the data and code in this repo. The data in this repo is identical with that published on zenodo, [https://doi.org/10.5281/zenodo.7499831](https://doi.org/10.5281/zenodo.7499831)
+Please cite our preprint and our dataset when using the artificial EHR data from the OpenChart-SE corpus and/or code in this repo. The data and code in this repo is identical with that published on zenodo [https://doi.org/10.5281/zenodo.7499831](https://doi.org/10.5281/zenodo.7499831)
+
+### Citation for preprint:
+
+Berg J, Aasa CO, Appelgren Thorell B, Aits S. OpenChart-SE: A corpus of artificial Swedish electronic health records for imagined emergency care patients written by physicians in a crowd-sourcing project. 2023, Jan 3. Preprint. Available from: https://github.com/Aitslab/openchart-se/
+
+### Citation for dataset:
+
+Berg J, Aasa CO, Appelgren Thorell B, Aits S. OpenChart-SE: A corpus of artificial Swedish electronic health records for imagined emergency care patients written by physicians in a crowd-sourcing project. 2022, Dec 19. DOI: https://doi.org/10.5281/zenodo.7499831
+
+
 
 The preprint in this repo is licensed under a
 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License][cc-by-nc-nd].
-
-[![CC BY-NC-ND 4.0][cc-by-nc-nd image]][cc-by-nc-nd]
-
 [cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
-
 
 
 The EHR dataset and code in this repo is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
 
 
