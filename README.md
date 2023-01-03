@@ -32,7 +32,7 @@ OpenChart-SE preprint released in this repo (openchart-se_v2.pdf)
 
 
 ## Research article
-Our preprint article describing the OpenChart-SE project has been uploaded to this repo and submitted to a preprint server. Supplemental data for the preprint is in the Zenodo repository, [https://zenodo.org/record/7499831#.Y7Rs4BXMJEY](https://zenodo.org/record/7499831#.Y7Rs4BXMJEY), and in the "data" folder.
+Our preprint article describing the OpenChart-SE project has been uploaded to this repo (openchart-se_v2.pdf) and submitted to a preprint server. Supplemental data for the preprint is in the Zenodo repository, [https://zenodo.org/record/7499831#.Y7Rs4BXMJEY](https://zenodo.org/record/7499831), and in the "data" folder.
 
 ## Licensing
 
