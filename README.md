@@ -21,7 +21,7 @@ The OpenChart-SE corpus containing the submitted artificial EHRs that have passe
 ### Data release history
 #### 2022-12-19
 
-OpenChart-SE corpus, version 1, released in this repo and on Zenodo, [https://zenodo.org/record/7499831#.Y7Rs4BXMJEY](https://zenodo.org/record/7499831#.Y7Rs4BXMJEY)
+OpenChart-SE corpus, version 1, released in this repo and on Zenodo, [https://zenodo.org/record/7499831](https://zenodo.org/record/7499831)
 
 50 records
 
@@ -35,7 +35,7 @@ OpenChart-SE preprint replaced with updated version including data exploration m
 
 
 ## Research article
-Our preprint article describing the OpenChart-SE project has been uploaded to this repo (openchart-se_v2.pdf) and submitted to a preprint server. Supplemental data for the preprint is in the Zenodo repository, [https://zenodo.org/record/7499831#.Y7Rs4BXMJEY](https://zenodo.org/record/7499831), and in the "data" folder.
+Our preprint article describing the OpenChart-SE project has been uploaded to this repo (openchart-se_v2.pdf) and submitted to a preprint server. Supplemental data for the preprint is in the Zenodo repository, [https://zenodo.org/record/7499831](https://zenodo.org/record/7499831), and in the "data" folder.
 
 ## Licensing
 
