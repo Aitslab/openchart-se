@@ -29,6 +29,9 @@ OpenChart-SE corpus, version 1, released in this repo and on Zenodo, [https://ze
 #### 2023-01-03
 OpenChart-SE preprint released in this repo (openchart-se_v2.pdf)
 
+#### 2023-01-04
+OpenChart-SE preprint replaced with updated version including data exploration methodology (openchart-se_v4.pdf)
+
 
 
 ## Research article
